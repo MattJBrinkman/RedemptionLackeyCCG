@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>Redemption</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Ahab_(UL)">Ahab (L)</name><set>Main</set></card>
+		<card><name id="Angel_Food_(B)">Angel Food (L)</name><set>Main</set></card>
+		<card><name id="Angel_of_the_Lord_(B)">Angel of the Lord (B)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Axe_(UL)">Axe (L)</name><set>Main</set></card>
+		<card><name id="Balm_of_Gilead_(B)">Balm of Gilead (B)</name><set>Main</set></card>
+		<card><name id="Banner_(B)">Banner (B)</name><set>Main</set></card>
+		<card><name id="Barnabas_(B)">Barnabas (B)</name><set>Main</set></card>
+		<card><name id="Boils_(UL)">Boils (L)</name><set>Main</set></card>
+		<card><name id="Breastplate_of_Righteousness_(BU)">Breastplate of Righteousness (B)</name><set>1st Edition</set></card>
+		<card><name id="Chariots_of_Iron_(UL)">Chariots of Iron (L)</name><set>Main</set></card>
+		<card><name id="Christian_Martyr_(A)">Christian Martyr (A)</name><set>1st Edition</set></card>
+		<card><name id="Courage_(UL)">Courage (L)</name><set>Main</set></card>
+		<card><name id="Devotion_of_Ruth_(UL)">Devotion of Ruth (L)</name><set>Main</set></card>
+		<card><name id="Esther_(UL)">Esther (L)</name><set>Main</set></card>
+		<card><name id="Ezekiel&apos;s_Stick_(UL)">Ezekiel&apos;s Stick (L)</name><set>Main</set></card>
+		<card><name id="Faith_(UL)">Faith (L)</name><set>Main</set></card>
+		<card><name id="Fiery_Darts_(UL)">Fiery Darts (L)</name><set>Main</set></card>
+		<card><name id="Haman_(UL)">Haman (L)</name><set>Main</set></card>
+		<card><name id="Helmet_of_Salvation_(BU)">Helmet of Salvation (B)</name><set>1st Edition</set></card>
+		<card><name id="Jezebel_(UL)">Jezebel (L)</name><set>Main</set></card>
+		<card><name id="Jonathan_(UL)">Jonathan (L)</name><set>Main</set></card>
+		<card><name id="Judas_Iscariot_(UL)">Judas Iscariot (L)</name><set>Main</set></card>
+		<card><name id="Locust_from_the_Pit_(UL)">Locust from the Pit (L)</name><set>Main</set></card>
+		<card><name id="Lost_Soul_Luke_15_6_(A)">Lost Soul Luke 15:6 (UL)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Lost_Soul_Job_33_27-28_(A)">Lost Soul Job 33:27-28 (UL)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Lost_Soul_II_Timothy_3_6-7_(B)">Lost Soul II Timothy 3:6-7 (UL)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Lost_Soul_Ezekiel_36_19_(B)">Lost Soul Ezekiel 36:19 (UL)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Lost_Soul_Ephesians_5_14_(A)">Lost Soul Ephesians 5:14 (UL)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Lost_Soul_Luke_15_6_(A)">Lost Soul Luke 15:6 (A)</name><set>1st Edition</set></card>
+		<card><name id="Lost_Soul_Job_33_27-28_(A)">Lost Soul Job 33:27-28 (A)</name><set>1st Edition</set></card>
+		<card><name id="Loyalty_of_Jonathan_(UL)">Loyalty of Jonathan (L)</name><set>Main</set></card>
+		<card><name id="Mark_(UL)">Mark (L)</name><set>Main</set></card>
+		<card><name id="Mary_(BU)">Mary (B)</name><set>Main</set></card>
+		<card><name id="Mercy_of_James_(UL)">Mercy of James (L)</name><set>Main</set></card>
+		<card><name id="Net_(B)">Net (B)</name><set>Main</set></card>
+		<card><name id="Obedience_of_Noah_(B)">Obedience of Noah (B)</name><set>Main</set></card>
+		<card><name id="Pillar_of_a_Cloud_(BU)">Pillar of a Cloud (B)</name><set>1st Edition</set></card>
+		<card><name id="Poison_(UL)">Poison (L)</name><set>Main</set></card>
+		<card><name id="Purity_of_Enoch_(UL)">Purity of Enoch (L)</name><set>Main</set></card>
+		<card><name id="Ruth_(UL)">Ruth (L)</name><set>Main</set></card>
+		<card><name id="Salome_(UL)">Salome (L)</name><set>Main</set></card>
+		<card><name id="Shield_of_Faith_(BU)">Shield of Faith (B)</name><set>1st Edition</set></card>
+		<card><name id="Shimei_(UL)">Shimei (L)</name><set>Main</set></card>
+		<card><name id="Silas_(UL)">Silas (L)</name><set>Main</set></card>
+		<card><name id="Son_of_God_(A)">Son of God (B)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Stone_Throwers_(UL)">Stone Throwers (L)</name><set>Main</set></card>
+		<card><name id="Strength_(UL)">Strength (L)</name><set>Main</set></card>
+		<card><name id="Submissiveness_of_Mary_(UL)">Submissiveness of Mary (L)</name><set>Main</set></card>
+		<card><name id="Sword_of_the_Spirit_(A)">Sword of the Spirit (A)</name><set>1st Edition</set></card>
+		<card><name id="Treachery_(UL)">Treachery (L)</name><set>Main</set></card>
+	</superzone>
+</deck>

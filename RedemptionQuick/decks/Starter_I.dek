@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>Redemption</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Angel_at_Bethesda_(I)">Angel at Bethesda</name><set>I</set></card>
+		<card><name id="You_Are_the_Christ_(I)">You Are the Christ</name><set>I</set></card>
+		<card><name id="To_Each_His_Own_(I)">To Each His Own</name><set>I</set></card>
+		<card><name id="Gathering_Angel_(I)">Gathering Angel</name><set>I</set></card>
+		<card><name id="Ishbibenob&apos;s_Sword_(I)">Ishbibenob&apos;s Sword</name><set>I</set></card>
+		<card><name id="James_(I)">James</name><set>I</set></card>
+		<card><name id="Legion_of_Angels_(I)">Legion of Angels</name><set>I</set></card>
+		<card><name id="Lost_Soul_Psalm_30_3_(Retriever)_(I)">Lost Soul Psalm 30:3 (Retriever)</name><set>I</set></card>
+		<card><name id="Overwhelming_Presence_(I)">Overwhelming Presence</name><set>I</set></card>
+		<card><name id="Raising_Lazarus_(I)">Raising Lazarus</name><set>I</set></card>
+		<card><name id="Selfish_Kinsman_(I)">Selfish Kinsman</name><set>I</set></card>
+		<card><name id="Loaves_and_Fishes_(I)">Loaves and Fishes</name><set>I</set></card>
+		<card><name id="Strife_(I)">Strife</name><set>I</set></card>
+		<card><name id="Glad_Tidings_(I)">Glad Tidings</name><set>I</set></card>
+		<card><name id="Achan_(I)">Achan (I)</name><set>I</set></card>
+		<card><name id="Achan&apos;s_Sin_(I)">Achan&apos;s Sin (I)</name><set>I</set></card>
+		<card><name id="Andrew_(I)">Andrew (I)</name><set>I</set></card>
+		<card><name id="Angel_of_the_Lord_(I)">Angel of the Lord (I)</name><set>I</set></card>
+		<card><name id="Angelic_Guidance_(I)">Angelic Guidance (I)</name><set>I</set></card>
+		<card><name id="Angelic_News_(I)">Angelic News (I)</name><set>I</set></card>
+		<card><name id="Ashtaroth_Worship_(I)">Ashtaroth Worship (I)</name><set>I</set></card>
+		<card><name id="Authority_of_Peter_(I)">Authority of Peter (I)</name><set>I</set></card>
+		<card><name id="Bad_Dealings_(I)">Bad Dealings (I)</name><set>I</set></card>
+		<card><name id="Christian_Martyr_(I)">Christian Martyr (I)</name><set>I</set></card>
+		<card><name id="Delilah_(I)">Delilah (I)</name><set>I</set></card>
+		<card><name id="Eaten_by_Worms_(I)">Eaten by Worms (I)</name><set>I</set></card>
+		<card><name id="Fishers_of_Men_(I)">Fishers of Men (I)</name><set>I</set></card>
+		<card><name id="Gabriel_(I)">Gabriel (I)</name><set>I</set></card>
+		<card><name id="Ishbibenob_(I)">Ishbibenob (I)</name><set>I</set></card>
+		<card><name id="Ishbibenob&apos;s_Spear_(I)">Ishbibenob&apos;s Spear (I)</name><set>I</set></card>
+		<card><name id="John_(I)">John (I)</name><set>I</set></card>
+		<card><name id="Lahmi_(I)">Lahmi (I)</name><set>I</set></card>
+		<card><name id="Lahmi&apos;s_Spear_(I)">Lahmi&apos;s Spear (I)</name><set>I</set></card>
+		<card><name id="Lost_Soul_Proverbs_10_1_(I)">Lost Soul Proverbs 10:1 (I)</name><set>I</set></card>
+		<card><name id="Lost_Soul_Proverbs_14_10_(I)">Lost Soul Proverbs 14:10 (I)</name><set>I</set></card>
+		<card><name id="Lost_Soul_Proverbs_21_16_(I)">Lost Soul Proverbs 21:16 (I)</name><set>I</set></card>
+		<card><name id="Lost_Soul_Proverbs_21_24_(I)">Lost Soul Proverbs 21:24 (I)</name><set>I</set></card>
+		<card><name id="Lost_Soul_Psalm_119_176_(I)">Lost Soul Psalm 119:176 (I)</name><set>I</set></card>
+		<card><name id="Lost_Soul_Psalm_68_6_(I)">Lost Soul Psalm 68:6 (I)</name><set>I</set></card>
+		<card><name id="Miraculous_Carch_(I)">Miraculous Catch (I)</name><set>I</set></card>
+		<card><name id="Nabal_(I)">Nabal (I)</name><set>I</set></card>
+		<card><name id="Peter_(I)">Peter (I)</name><set>I</set></card>
+		<card><name id="Saph_(I)">Saph (I)</name><set>I</set></card>
+		<card><name id="Shaphat_(I)">Shaphat (I)</name><set>I</set></card>
+		<card><name id="Sin_in_the_Camp_(I)">Sin in the Camp (I)</name><set>I</set></card>
+		<card><name id="Son_of_God_(I)">Son of God (I)</name><set>I</set></card>
+		<card><name id="Walking_on_Water_(I)">Walking on Water (I)</name><set>I</set></card>
+		<card><name id="Water_to_Wine_(I)">Water to Wine (I)</name><set>I</set></card>
+		<card><name id="Wickedness_of_Delilah_(I)">Wickedness of Delilah (I)</name><set>I</set></card>
+		<card><name id="Wonderment_(I)">Wonderment (I)</name><set>I</set></card>
+	</superzone>
+</deck>

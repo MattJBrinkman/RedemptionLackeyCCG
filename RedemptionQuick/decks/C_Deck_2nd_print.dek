@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>Redemption</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Aaron&apos;s_Rod_(CU)">Aaron&apos;s Rod (C)</name><set>2nd Edition</set></card>
+		<card><name id="Abel_(CU)">Abel ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Ahab_(C)">Ahab ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Abihu_(C)">Abihu ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Angel_of_the_Lord_(C)">Angel of the Lord ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Asahel_(CU)">Asahel ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Axe_(CU)">Axe ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Boils_(C)">Boils ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Bow_and_Arrow_(Gray)_(CU)">Bow and Arrow (Gray) ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Bow_and_Arrow_(Red)_(CU)">Bow and Arrow (Red) ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Burning_Censor_(CU)">Burning Censer ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Chains_(CU)">Chains ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Christian_Martyr_(C)">Christian Martyr ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Christian_Soldier_(CU)">Christian Soldier ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Cornelius_(CU)">Cornelius ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Cruelty_(C)">Cruelty ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Evil_Fire_(CU)">Evil Fire ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Faithful_Servant_(CU)">Faithful Servant ( C)</name><set>2nd Edition</set></card>
+		<card><name id="False_Teachers_(CU)">False Teachers ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Foreign_Enemy_(CU)">Foreign Enemy</name><set>2nd Edition</set></card>
+		<card><name id="Haman_(CU)">Haman ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Job&apos;s_Wife_(CU)">Job&apos;s Wife ( C)</name><set>2nd Edition</set></card>
+		<card><name id="King&apos;s_Sword_(C)">King&apos;s Sword ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Lost_Soul_Ezekiel_34_12_(C)">Lost Soul Ezekiel 34:12 ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Lost_Soul_Isaiah_42_7_(C)">Lost Soul Isaiah 42:7 ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Mighty_Warrior_(CU)">Mighty Warrior ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Miriam_(CU)">Miriam ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Molech_Worship_(CU)">Molech Worship ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Ointment_(C)">Ointment ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Patience_(CU)">Patience ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Pillar_of_a_Cloud_(C)">Pillar of a Cloud ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Poison_of_Dragons_(CU)">Poison of Dragons ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Power_of_the_Cross_(CU)">Power of the Cross ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Priestly_Breastplate_(CU)">Priestly Breastplate ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Roman_Prison_(Pi)">Roman Prison</name><set>2nd Edition</set></card>
+		<card><name id="Search_(CU)">Search ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Shimei_(CU)">Shimei ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Shoes_of_Peace_(C)">Shoes of Peace ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Sinful_Army_(CU)">Sinful Army</name><set>2nd Edition</set></card>
+		<card><name id="Sinful_Kingdom_(CU)">Sinful Kingdom</name><set>2nd Edition</set></card>
+		<card><name id="Son_of_God_(C)">Son of God ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Steadfastness_of_Peter_(CU)">Steadfastness of Peter ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Tears_for_a_Friend_(CU)">Tears for a Friend ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Lost_Soul_Luke_13_25_(C)">Lost Soul Luke 13:25 ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Lost_Soul_I_Kings_17_12_(C)">Lost Soul I Kings 17:12 ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Lost_Soul_II_Timothy_3_6-7_(C)">Lost Soul II Timothy 3:6-7 ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Lost_Soul_Luke_15_6_(C)">Lost Soul Luke 15:6</name><set>2nd Edition</set></card>
+		<card><name id="Lost_Soul_Psalm_119_176_(C)">Lost Soul Psalm 119:176 ( C)</name><set>2nd Edition</set></card>
+		<card><name id="Goshen_(CU)">Goshen ( C)</name><set>2nd Edition Revised</set></card>
+		<card><name id="Sound_the_Alarm_(C)">Sound the Alarm (CU)</name><set>2nd Edition Revised</set></card>
+	</superzone>
+</deck>

@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>Redemption</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Aaron&apos;s_Rod_(A)">Aaron&apos;s Rod (L)</name><set>Main</set></card>
+		<card><name id="Angel_of_the_Lord_(A)">Angel of the Lord (A)</name><set>1st Edition</set></card>
+		<card><name id="Bow_and_Arrow_(Gray)_(UL)">Bow and Arrow (Gray) (L)</name><set>Main</set></card>
+		<card><name id="Bow_and_Arrow_Red)_(UL)">Bow and Arrow (Red) (L)</name><set>Main</set></card>
+		<card><name id="Breastplate_of_Righteousness_(BU)">Breastplate of Righteousness (B)</name><set>1st Edition</set></card>
+		<card><name id="Chains_(A)">Chains (A)</name><set>Main</set></card>
+		<card><name id="Christian_Martyr_(A)">Christian Martyr (A)</name><set>1st Edition</set></card>
+		<card><name id="Christian_Soldier_(A)">Christian Soldier (A)</name><set>Main</set></card>
+		<card><name id="Clemency_of_David_(A)">Clemency of David (A)</name><set>Main</set></card>
+		<card><name id="Cornelius_(A)">Cornelius (A)</name><set>Main</set></card>
+		<card><name id="Darkness_(A)">Darkness (A)</name><set>Main</set></card>
+		<card><name id="Grief_(A)">Grief (A)</name><set>Main</set></card>
+		<card><name id="Lost_Soul_Ephesians_5_14_(A)">Lost Soul Ephesians 5:14 (A)</name><set>1st Edition</set></card>
+		<card><name id="Lost_Soul_Job_33_27-28_(A)">Lost Soul Job 33:27-28 (A)</name><set>1st Edition</set></card>
+		<card><name id="Ointment_(A)">Ointment (A)</name><set>Main</set></card>
+		<card><name id="Othniel_(A)">Othniel (A)</name><set>Main</set></card>
+		<card><name id="Son_of_God_(A)">Son of God (A)</name><set>1st Edition</set></card>
+		<card><name id="Sound_the_Alarm_(A)">Sound the Alarm (A)</name><set>Main</set></card>
+		<card><name id="Sword_of_the_Spirit_(A)">Sword of the Spirit (A)</name><set>1st Edition</set></card>
+		<card><name id="David&apos;s_Staff_(UL)">David&apos;s Staff (L)</name><set>Main</set></card>
+		<card><name id="Deborah_(UL)">Deborah (L)</name><set>Main</set></card>
+		<card><name id="Doeg_(UL)">Doeg (L)</name><set>Main</set></card>
+		<card><name id="Faithful_Servant_(UL)">Faithful Servant (L)</name><set>Main</set></card>
+		<card><name id="False_Shepherds_(UL)">False Shepherds (L)</name><set>Main</set></card>
+		<card><name id="False_Teachers_(UL)">False Teachers (L)</name><set>Main</set></card>
+		<card><name id="Gideon_(UL)">Gideon (L)</name><set>Main</set></card>
+		<card><name id="Helmet_of_Brass_(UL)">Helmet of Brass (L)</name><set>Main</set></card>
+		<card><name id="Helmet_of_Salvation_(BU)">Helmet of Salvation (B)</name><set>1st Edition</set></card>
+		<card><name id="Herodias_(UL)">Herodias (L)</name><set>Main</set></card>
+		<card><name id="Humility_of_Moses_(UL)">Humility of Moses (L)</name><set>Main</set></card>
+		<card><name id="Hushai_(UL)">Hushai (L)</name><set>Main</set></card>
+		<card><name id="Lance_(UL)">Lance (L)</name><set>Main</set></card>
+		<card><name id="Lost_Soul_Luke_15_6_(A)">Lost Soul Luke 15:6 (A)</name><set>1st Edition</set></card>
+		<card><name id="Lost_Soul_Ezekiel_34_12_(A)">Lost Soul  Ezekiel 34:12</name><set>Main</set></card>
+		<card><name id="Lost_Soul_I_Kings_17_12_(UL)">Lost Soul I Kings 17:12 (L)</name><set>Main</set></card>
+		<card><name id="Lost_Soul_II_Timothy_2_26_(UL)">Lost Soul II Timothy 2:26 (L)</name><set>Main</set></card>
+		<card><name id="Lost_Soul_Isaiah_42_7_(UL)">Lost Soul Isaiah 42:7 (L)</name><set>Main</set></card>
+		<card><name id="Mighty_Warrior_(UL)">Mighty Warrior (L)</name><set>Main</set></card>
+		<card><name id="Miriam_(UL)">Miriam (L)</name><set>Main</set></card>
+		<card><name id="Peace_(UL)">Peace (L)</name><set>Main</set></card>
+		<card><name id="Pharaoh_(UL)">Pharaoh (L)</name><set>Main</set></card>
+		<card><name id="Pillar_of_a_Cloud_(BU)">Pillar of a Cloud (B)</name><set>1st Edition</set></card>
+		<card><name id="Prayer_and_Fasting_(UL)">Prayer and Fasting (L)</name><set>Main</set></card>
+		<card><name id="Samuel_(UL)">Samuel (L)</name><set>Main</set></card>
+		<card><name id="Shield_of_Faith_(BU)">Shield of Faith (B)</name><set>1st Edition</set></card>
+		<card><name id="Steadfastness_of_Peter_(UL)">Steadfastness of Peter (L)</name><set>Main</set></card>
+		<card><name id="Stone_of_Thebez_(UL)">Stone of Thebez (L)</name><set>Main</set></card>
+		<card><name id="Taskmaster_(UL)">Taskmaster (L)</name><set>Main</set></card>
+		<card><name id="Uriah_(UL)">Uriah (L)</name><set>Main</set></card>
+		<card><name id="Wisdom_(UL)">Wisdom (L)</name><set>Main</set></card>
+	</superzone>
+</deck>

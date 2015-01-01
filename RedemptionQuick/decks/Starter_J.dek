@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>Redemption</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Family_Bond_(J)">Family Bond</name><set>J</set></card>
+		<card><name id="Hypocrite&apos;s_Proselyte_(J)">Hypocrite&apos;s Proselyte</name><set>J</set></card>
+		<card><name id="Kindness_of_Boaz_(J)">Kindness of Boaz</name><set>J</set></card>
+		<card><name id="Lost_Soul_Luke_15_6_(Force_Draw)_(J)">Lost Soul Luke 15:6 (Forced Draw)</name><set>J</set></card>
+		<card><name id="Pilate&apos;s_Soldiers_(J)">Pilate&apos;s Soldiers</name><set>J</set></card>
+		<card><name id="Quinirius_(J)">Quirinius</name><set>J</set></card>
+		<card><name id="Roman_Whip_(J)">Roman Whip</name><set>J</set></card>
+		<card><name id="Shamgar&apos;s_Oxgoad_(J)">Shamgar&apos;s Oxgoad</name><set>J</set></card>
+		<card><name id="The_Sword_of_Gideon_(J)">The Sword of Gideon</name><set>J</set></card>
+		<card><name id="Trumpets_and_Torches_(J)">Trumpets and Torches</name><set>J</set></card>
+		<card><name id="When_Judges_Governed_(J)">When Judges Governed</name><set>J</set></card>
+		<card><name id="Angel_of_the_Lord_(J)">Angel of the Lord (J)</name><set>J</set></card>
+		<card><name id="Boaz_(J)">Boaz (J)</name><set>J</set></card>
+		<card><name id="Christian_Martyr_(J)">Christian Martyr (J)</name><set>J</set></card>
+		<card><name id="Coliseum_Lions_(J)">Coliseum Lions (J)</name><set>J</set></card>
+		<card><name id="Controlling_Demon_(J)">Controlling Demon (J)</name><set>J</set></card>
+		<card><name id="Crucify_Him!_(J)">Crucify Him! (J)</name><set>J</set></card>
+		<card><name id="Devotion_of_Ruth_(J)">Devotion of Ruth (J)</name><set>J</set></card>
+		<card><name id="Elders_of_the_City_(J)">Elders of the City (J)</name><set>J</set></card>
+		<card><name id="Emperor_Tiberius_(J)">Emperor Tiberius (J)</name><set>J</set></card>
+		<card><name id="Evil_Strength_(J)">Evil Strength (J)</name><set>J</set></card>
+		<card><name id="Fiery_Darts_(J)">Fiery Darts (J)</name><set>J</set></card>
+		<card><name id="Foul_Spirit_(J)">Foul Spirit (J)</name><set>J</set></card>
+		<card><name id="Gideon_(J)">Gideon (J)</name><set>J</set></card>
+		<card><name id="Gideon&apos;s_Call_(J)">Gideon&apos;s Call (J)</name><set>J</set></card>
+		<card><name id="Gleaning_the_Fields_(J)">Gleaning the Fields (J)</name><set>J</set></card>
+		<card><name id="Jephthah_(J)">Jephthah (J)</name><set>J</set></card>
+		<card><name id="Lost_Soul_Luke_13_25_(J)">Lost Soul Luke 13:25 (J)</name><set>J</set></card>
+		<card><name id="Lost_Soul_Luke_15_13_(J)">Lost Soul Luke 15:13 (J)</name><set>J</set></card>
+		<card><name id="Lost_Soul_Luke_15_15-16_(J)">Lost Soul Luke 15:15-16 (J)</name><set>J</set></card>
+		<card><name id="Lost_Soul_Luke_19_10_(J)">Lost Soul Luke 19:10 (J)</name><set>J</set></card>
+		<card><name id="Lost_Soul_Mark_1_40_(J)">Lost Soul Mark 1:40 (J)</name><set>J</set></card>
+		<card><name id="Loyalty_of_Ruth_(J)">Loyalty of Ruth (J)</name><set>J</set></card>
+		<card><name id="Ruth_(J)">Ruth (J)</name><set>J</set></card>
+		<card><name id="Ruth_Meets_Boaz_(J)">Ruth Meets Boaz (J)</name><set>J</set></card>
+		<card><name id="Samson_(J)">Samson (J)</name><set>J</set></card>
+		<card><name id="Samson&apos;s_Strength_(J)">Samson&apos;s Strength (J)</name><set>J</set></card>
+		<card><name id="Shamgar_(J)">Shamgar (J)</name><set>J</set></card>
+		<card><name id="Sing_and_Praise_(J)">Sing and Praise (J)</name><set>J</set></card>
+		<card><name id="Son_of_God_(J)">Son of God (J)</name><set>J</set></card>
+		<card><name id="Sorrow_of_Mary_(J)">Sorrow of Mary (J)</name><set>J</set></card>
+		<card><name id="Sword_of_the_Lord_(J)">Sword of the Lord (J)</name><set>J</set></card>
+		<card><name id="Twice_Afflicted_(J)">Twice Afflicted (J)</name><set>J</set></card>
+		<card><name id="Unclean_Spirit_(J)">Unclean Spirit (J)</name><set>J</set></card>
+		<card><name id="Vain_Philosophy_(J)">Vain Philosophy (J)</name><set>J</set></card>
+		<card><name id="Mocking_Soldiers_(J)">Mocking Soldiers (J)</name><set>J</set></card>
+		<card><name id="Naomi_(J)">Naomi (J)</name><set>J</set></card>
+		<card><name id="Possessing_Demon_(J)">Possessing Demon (j)</name><set>J</set></card>
+		<card><name id="Persistent_Pestering_(J)">Persistent Pestering (J)</name><set>J</set></card>
+		<card><name id="Lost_Soul_Luke_16_20-21_(J)">Lost Soul Luke 16:20-21 (J)</name><set>J</set></card>
+	</superzone>
+</deck>

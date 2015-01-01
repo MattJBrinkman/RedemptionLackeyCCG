@@ -1,0 +1,75 @@
+<plugin>
+<pluginversion>1.3</pluginversion>
+
+<pluginname>Redemption</pluginname>
+
+<playerstat><label>Redeemed Souls</label><initialvalue>0</initialvalue></playerstat>
+
+<deckzone>
+	<label>Deck</label>
+	<shuffle>yes</shuffle>
+	<gamezonetoloadto>Library</gamezonetoloadto>
+</deckzone>
+
+<gamezone>
+	<label>Hand</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Deck</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Discard</label>
+	<visibletoowner>no</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Land of Redemption</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Removed</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<phase><label>Draw</label></phase>
+<phase><label>Upkeep</label></phase>
+<phase><label>Prep</label></phase>
+<phase><label>Battle</label></phase>
+<phase><label>Discard</label></phase>
+<phase><label>End</label></phase>
+
+<generalfunction><label>Draw 1</label><kind>DRAWCARD</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Reveal Top</label><kind>DRAWCARDTOTABLE</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction>
+  <label>Reveal Bottom</label>
+  <kind>TRANSFERCARD</kind>
+  <sourcegamezone>Deck</sourceowner>
+  <sourceposition>bottom</sourceposition>
+  <destinationowner>table</destinationowner>
+  <destinationposition>faceup</destinationposition>
+  <includeasbutton>yes</includeasbutton>
+</generalfunction>
+<generalfunction><label>Roll</label><kind>ROLLD6</kind><includeasbutton>yes</includeasbutton></generalfunction>
+<generalfunction><label>Next Turn</label><kind>NEXTTURN</kind><includeasbutton>no</includeasbutton></generalfunction>
+<generalfunction><label>Flip Coin</label><kind>FLIPCOIN</kind><includeasbutton>no</includeasbutton></generalfunction>
+
+<cardfunction><label>Exp +1</label><kind>ADDCOUNTERGREEN</kind><includeasbutton>yes</includeasbutton><PositionX>.75</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Exp -1</label><kind>REMOVECOUNTERGREEN</kind><includeasbutton>yes</includeasbutton><PositionX>.75</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Set Aside +1</label><kind>ADDCOUNTERRED</kind><includeasbutton>yes</includeasbutton><PositionX>.5</PositionX><PositionY>.04</PositionY></cardfunction>
+<cardfunction><label>Set Aside -1</label><kind>REMOVECOUNTERRED</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><includeasbutton>yes</includeasbutton><PositionX>.4</PositionX><PositionY>.95</PositionY></cardfunction>
+<cardfunction><label>Turn Over</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
+
+<definition><kind>REUSECARDIMAGES</kind></definition>
+<definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
+<definition><kind>BACKVISIBILITY</kind><value>BACKVISIBILITYHIDEBACKINZONES</value></definition>
+<definition><kind>TABLEITEMSCALE</kind><value>50</value></definition>
+</plugin>

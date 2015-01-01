@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>Redemption</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Aaron&apos;s_Rod_(UL)">Aaron&apos;s Rod (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Angel_of_the_Lord_(B)">Angel of the Lord (B)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Bow_and_Arrow_(Gray)_(UL)">Bow and Arrow (Gray) (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Bow_and_Arrow_Red)_(UL)">Bow and Arrow (Red) (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Breastplate_of_Righteousness_(BU)">Breastplate of Righteousness (UL)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Chains_(UL)">Chains (L)</name><set>Main Unlimited</set></card>
+		<card><name id="Christian_Martyr_(A)">Christian Martyr (AU)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Christian_Soldier_(UL)">Christian Soldier (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Clemency_of_David_(A)">Clemency of David (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Cornelius_(UL)">Cornelius (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Darkness_(A)">Darkness (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="David&apos;s_Staff_(UL)">David&apos;s Staff (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Deborah_(UL)">Deborah (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Doeg_(UL)">Doeg (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Faithful_Servant_(UL)">Faithful Servant (CL)</name><set>Main Unlimited</set></card>
+		<card><name id="False_Shepherds_(UL)">False Shepherds (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="False_Teachers_(UL)">False Teachers (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Gideon_(UL)">Gideon (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Grief_(UL)">Grief (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Helmet_of_Brass_(UL)">Helmet of Brass (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Helmet_of_Salvation_(BU)">Helmet of Salvation (UL)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Herodias_(UL)">Herodias (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Humility_of_Moses_(UL)">Humility of Moses (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Hushai_(UL)">Hushai (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Lance_(UL)">Lance (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Mighty_Warrior_(UL)">Mighty Warrior (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Miriam_(UL)">Miriam (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Ointment_(UL)">Ointment (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Othniel_(UL)">Othniel (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Peace_(UL)">Peace (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Pharaoh_(UL)">Pharaoh (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Prayer_and_Fasting_(UL)">Prayer and Fasting (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Samuel_(UL)">Samuel (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Shield_of_Faith_(BU)">Shield of Faith (UL)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Shoes_of_Peace_(A)">Shoes of Peace (A)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Son_of_God_(A)">Son of God (B)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Sound_the_Alarm_(UL)">Sound the Alarm (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Steadfastness_of_Peter_(UL)">Steadfastness of Peter (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Stone_of_Thebez_(UL)">Stone of Thebez (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Sword_of_the_Spirit_(A)">Sword of the Spirit (UL)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Taskmaster_(UL)">Taskmaster (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Uriah_(UL)">Uriah (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Wisdom_(UL)">Wisdom (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Lost_Soul_Job_33_27-28_(A)">Lost Soul Job 33:27-28 (UL)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Lost_Soul_Ezekiel_34_12_(UL)">Lost Soul Ezekiel 34:12 (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Lost_Soul_Luke_15_6_(A)">Lost Soul Luke 15:6 (UL)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Lost_Soul_Ephesians_5_14_(A)">Lost Soul Ephesians 5:14 (UL)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Lost_Soul_II_Timothy_2_26_(UL)">Lost Soul II Timothy 2:26 (UL)</name><set>Main Unlimited</set></card>
+		<card><name id="Lost_Soul_II_Timothy_3_6-7_(B)">Lost Soul II Timothy 3:6-7 (UL)</name><set>1st Edition Unlimited</set></card>
+		<card><name id="Lost_Soul_Ezekiel_36_19_(B)">Lost Soul Ezekiel 36:19 (UL)</name><set>1st Edition Unlimited</set></card>
+	</superzone>
+</deck>

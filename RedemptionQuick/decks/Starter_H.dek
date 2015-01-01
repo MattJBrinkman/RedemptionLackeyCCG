@@ -1,0 +1,57 @@
+<deck version="0.8">
+	<meta>
+		<game>Redemption</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="Aaron_and_Miriam&apos;s_Dissent_(H)">Aaron and Miriam&apos;s Dissent</name><set>10th Anniversary</set></card>
+		<card><name id="Abiram_(H)">Abiram</name><set>10th Anniversary</set></card>
+		<card><name id="Angel_of_the_Lord_(G)">Angel of the Lord (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Begging_to_go_Back_(H)">Begging to go Back</name><set>10th Anniversary</set></card>
+		<card><name id="Bravery_of_Priscilla_(Wo)">Bravery of Priscilla (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Blood_of_the_Lamb_(H)">Blood of the Lamb (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Burning_up_the_Chaff_(H)">Burning up the Chaff</name><set>10th Anniversary</set></card>
+		<card><name id="Cast_out_Demons_(H)">Cast out Demons</name><set>10th Anniversary</set></card>
+		<card><name id="Christian_Martyr_(H)">Christian Martyr (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Dathan_(H)">Dathan</name><set>10th Anniversary</set></card>
+		<card><name id="Egypt_(Wo)">Egypt (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Egyptian_Charioteers_(H)">Egyptian Charioteers</name><set>10th Anniversary</set></card>
+		<card><name id="Egyptian_Horsemen_(H)">Egyptian Horsemen</name><set>10th Anniversary</set></card>
+		<card><name id="Enslaved_by_Egypt_(H)">Enslaved by Egypt</name><set>10th Anniversary</set></card>
+		<card><name id="Faith_Shared_(H)">Faith Shared</name><set>10th Anniversary</set></card>
+		<card><name id="Gentle_Resolution_(H)">Gentle Resolution</name><set>10th Anniversary</set></card>
+		<card><name id="Golden_Calf_(H)">Golden Calf</name><set>10th Anniversary</set></card>
+		<card><name id="Great_Faith_(H)">Great Faith (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Israelite_Rebellion_(H)">Israelite Rebellion</name><set>10th Anniversary</set></card>
+		<card><name id="Jairus&apos;_Daughter_(H)">Jairus&apos; Daughter (H)</name><set>10th Anniversary</set></card>
+		<card><name id="James_son_of_Zebedee_(H)">James Son of Zebedee (H)</name><set>10th Anniversary</set></card>
+		<card><name id="John_(H)">John (H)</name><set>10th Anniversary</set></card>
+		<card><name id="King&apos;s_Sword_(H)">King&apos;s Sword (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Lamb&apos;s_Righteousness_(H)">Lamb&apos;s Righteousness (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Letters_to_the_Churches_(H)">Letters to the Churches</name><set>10th Anniversary</set></card>
+		<card><name id="Listening_to_God_(H)">Listening to God</name><set>10th Anniversary</set></card>
+		<card><name id="Lost_Soul_Ezekiel_13_18_(H)">Lost Soul Ezekiel 13:18 (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Lost_Soul_Ezekiel_34_16_(H)">Lost Soul Ezekiel 34:16 (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Lost_Soul_Ezekiel_36_19_(H)">Lost Soul Ezekiel 36:19 (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Lost_Soul_Jeremiah_50_6_(H)">Lost Soul Jeremiah 50:6 (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Lost_Soul_Jeremiah_7_18_(Female_Only)_(H)">Lost Soul Jeremiah 7:18 (Female Only) (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Lost_Soul_Job_33_27_(H)">Lost Soul Job 33:27-28 (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Lost_Soul_Proverbs_7_27_(H)">Lost Soul Proverbs 7:27 (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Lydia_(H)">Lydia (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Murmuring_(H)">Murmuring</name><set>10th Anniversary</set></card>
+		<card><name id="Pharaoh_(H)">Pharaoh (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Pharaoh&apos;s_Hard_Heart_(H)">Pharaoh&apos;s Hard Heart</name><set>10th Anniversary</set></card>
+		<card><name id="Pharaoh&apos;s_Murderous_Order_(H)">Pharaoh&apos;s Murderous Order</name><set>10th Anniversary</set></card>
+		<card><name id="Preaching_the_Truth_(H)">Preaching the Truth</name><set>10th Anniversary</set></card>
+		<card><name id="Preemptive_Strike_(H)">Preemptive Strike</name><set>10th Anniversary</set></card>
+		<card><name id="Priscilla_(H)">Priscilla (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Reach_of_Desperation_(H)">Reach of Desperation (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Self-Doubt_(H)">Self-Doubt</name><set>10th Anniversary</set></card>
+		<card><name id="Son_of_God_(H)">Son of God (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Taskmaster_(H)">Taskmaster (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Timothy_(H)">Timothy (H)</name><set>10th Anniversary</set></card>
+		<card><name id="Zelophehad&apos;s_Sin_(H)">Zelophehad&apos;s Sin</name><set>10th Anniversary</set></card>
+		<card><name id="Idolaters_(H)">Idolaters</name><set>10th Anniversary</set></card>
+		<card><name id="The_Word_Spreads_(H)">The Word Spreads</name><set>10th Anniversary</set></card>
+		<card><name id="Parmenas_(H)">Parmenas (H)</name><set>10th Anniversary</set></card>
+	</superzone>
+</deck>

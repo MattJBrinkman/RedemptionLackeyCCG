@@ -890,7 +890,7 @@ Gaius	3rd Edition	Gaius_(F)	Hero	Gold	7	7				Deck	III John 1:1
 Gamaliel	Apostles	Gamaliel_(Ap)	Hero	Red	2	6			Interrupt and prevent one enhancement used by an evil Pharisee or Sadducee.	Uncommon	Acts 5:34
 Garden of Eden	3rd Edition	Garden_of_Eden_(F)	Site	Silver						Deck	Genesis 3:23
 Gates of Jerusalem	Promo	Gates_of_Jerusalem_(Promo)	Fortress						Protect evil Kings and Queens of Judah in your territory from opponent's cards. If one blocks, its special ability cannot be negated and you may draw a card.	Promo	II Chronicles 14:7
-Gates of Samaria	Rock of Ages	Gates_of_Samaria_(RA2)	EF	Evil					Protect evil Kings of Israel in your territory from opponents. When you play a Samaria Site, increase your evil King of Israel 6/6 to decrease a character 6/6. 	Fixed	II Kings 7:1
+Gates of Samaria	Rock of Ages	Gates_of_Samaria_(RA2)	Fortress	Evil					Protect evil Kings of Israel in your territory from opponents. When you play a Samaria Site, increase your evil King of Israel 6/6 to decrease a character 6/6. 	Fixed	II Kings 7:1
 Gathering Angel	I	Gathering_Angel_(I)	Hero	Silver	6	2		Generic	Search each discard pile for a Hero and topdeck them.	Deck	Matthew 24:31
 Gathering of Angels (Ki)	Kings	Gathering_of_Angels_(Ki)	GE	Silver					Set Hero aside for 4 turns.  On return Hero gains ability to band to any Hero until discarded.	Common	Matthew 13:41
 Gathering of Angels (Wa)	Warriors	Gathering_of_Angels_(Wa)	GE	Silver					Set Hero aside for 4 turns.  On return Hero gains ability to band to any Hero until discarded.	Common	Matthew 13:41
@@ -1807,8 +1807,8 @@ Pharaoh's Magicians	Patriarchs	Pharaoh's_Magicians_(Pa)	Evil Character	Gold	7	2	
 Pharaoh's Murderous Order	10th Anniversary	Pharaoh's_Murderous_Order_(H)	EE	Gold	4	0			Discard a male human hero in each opponent's territory.	Deck	Exodus 1:22
 Pharaoh's Prison	Women	Pharaoh's_Prison_(Wo)	Site	Blue						Common	Genesis 39:20
 Pharaoh's Throne Room	Priests	Pharaoh's_Throne_Room_(Pi)	Fortress	Evil					Protect Egyptian Evil Characters in your territory from discard and conversion.  While you have an Egyptian king or Pharaoh in play, negate all “ignore” abilities on opponent’s Heroes.	Rare	Exodus 5:2
-Pharisees - John 8:3-4	Apostles	Pharisees_(Brown)_(Ap)	Evil Character	Gray	1	3			May band to all Pharisees.	Common	John 8:3-4
-Pharisees - Orange Background	Apostles	Pharisees_(Pink)_(Ap)	Evil Character	Gray	1	3			May band to all Pharisees.	Common	Matthew 3:7
+Pharisees - John 8:3-4	Apostles	Pharisees_(Pink)_(Ap)	Evil Character	Gray	1	3			May band to all Pharisees.	Common	John 8:3-4
+Pharisees - Orange Background	Apostles	Pharisees_(Brown)_(Ap)	Evil Character	Gray	1	3			May band to all Pharisees.	Common	Matthew 3:7
 Pharisees - Red Background	Apostles	Pharisees_(Red)_(Ap)	Evil Character	Gray	1	3			May band to all Pharisees.	Common	Matthew 3:7
 Philemon	Apostles	Philemon_(Ap)	Hero	Green	2	5				Common	Philemon 1:1
 Philetus (Di)	Disciples	Philetus_(Di)	Evil Character	Black/Crimson	11	4		Heretic, Greek	Search opponent's discard pile for a good card and remove it from the game to protect N.T. Lost Souls from rescue (except by a Hero with matching brigade).	Fixed	II Timothy 2:17-18
@@ -2177,7 +2177,7 @@ Sold into Slavery	Patriarchs	Sold_into_Slavery_(Pa)	EE	Crimson					Show and disc
 Soldier of God	Promo	Soldier_of_God_(Promo)	Hero	Blue/Gold/Red	4	4	Warrior		May band to Christian Soldier, Good Samaritan, Faithful Servant, Paladin, or Saint of Virtue.	Promo	II Timothy 2:4
 Solomon Dedicates Temple	Kings	Solomon_Dedicates_Temple_(Ki)	GE	Gold	4	3			Search your draw pile for Solomon's Temple and put it in play.  Holder may immediately take an Artifact from his Artifact pile and activate it in Solomon's Temple.	Rare	II Chronicles 5:2
 Solomon's Temple (Pa)	Patriarchs	Solomon's_Temple_(Pa)	Fortress	Good					Holder may activate a second Artifact from Artifact pile or hand on this Fortress if that Artifact was found in Solomon's Temple.  Artifact takes immediate effect.	Rare	I Kings 6:1
-Solomon's Temple (RoA)	Rock of Ages	Solomon's_Temple_(tin)	GF	Good				Holds a Solomon's Temple Artifact	If a Solomon's Temple Priest, King of Judah, or Solomon is captured or discarded by an opponent's special ability, you may discard a teal card from hand instead.	Fixed	I Kings 6:1
+Solomon's Temple (RoA)	Rock of Ages	Solomon's_Temple_(tin)	Fortress	Good				Holds a Solomon's Temple Artifact	If a Solomon's Temple Priest, King of Judah, or Solomon is captured or discarded by an opponent's special ability, you may discard a teal card from hand instead.	Fixed	I Kings 6:1
 Son of God ( C)	2nd Edition	Son_of_God_(C)	Dominant	Good					Rescue any Lost Soul in play.	Deck	Revelation  19:16
 Son of God (A)	1st Edition	Son_of_God_(A)	Dominant	Good					Rescue any Lost Soul in play.	Deck	Revelation  1:12-13
 Son of God (B)	1st Edition Unlimited	Son_of_God_(A)	Dominant	Good					Rescue any Lost Soul in play.	Deck	Revelation  1:12-13
@@ -2202,6 +2202,7 @@ Spear of Joshua (Ki)	Kings	Spear_of_Joshua_(Ki)	GE	Gold	3	2	Weapon		Hero has acc
 Spear of Joshua (Wa)	Warriors	Spear_of_Joshua_(Wa)	GE	Gold	3	2			Worth 6/4 if used by a Hero who fought in an earthly battle.	Common	Joshua 8:26
 Speed (L)	Main	Speed_(UL)	GE	Purple	3	2			Hero gains first strike ability.	Rare	I Kings 18:45-46
 Speed (UL)	Main Unlimited	Speed_(UL)	GE	Purple	3	2			Hero gains first strike ability.	Rare	I Kings 18:45-46
+Spirit as a Dove	Promo	Spirit_as_a_Dove_(Promo)	GE	White	4	3			If used by a N.T. Hero, search deck for a good N.T. card and add it to hand or battle. Cannot be negated if John the Baptist is in play.	Fixed	John 1:32
 Spirit of Doubt	Angel Wars	Spirit_of_Doubt_(AW)	Evil Character	Pale Green	6	6		Demon	Negate the special ability of one Hero in battle.	Common	II Timothy 1:7
 Spirit of Temptation	Thesaurus ex Preteritus	Spirit_of_Temptation_(TxP)	Evil Character	Orange	0	4		Demon, Generic	May place a card from hand beneath deck. Opponent must do the same. May band to a human Evil Character. Cannot be interrupted.	Fixed	Matthew 26:41
 Spiritual Beings	Angel Wars	Spiritual_Beings_(AW)	GE	Silver	1	3			Hero is immune to human Evil Characters.  Cannot be prevented by an evil card.	Rare	Hebrews 1:14
@@ -2434,7 +2435,7 @@ Tormentors	Warriors	Tormentors_(Wa)	EE	Crimson	1	1			All evil enhancements with 
 Torn Mantle	Prophets	Torn_Mantle_(Pr)	EE	Pale Green					No good banding cards can be played this turn.  Any currently in play are discarded.	Rare	I Samuel 15:27-28
 Tower (Ki)	Kings	Tower_(Ki)	EE	Pale Green					Set human Evil Character aside for 3 turns.  Character returns with ability to negate all special abilities on character cards.	Rare	Judges 9:51
 Tower (Wa)	Warriors	Tower_(Wa)	EE	Pale Green					Set Evil Character aside for 6 turns.  Character returns able to interrupt and prevent all special abilities on character cards including The Strong Angel.	Rare	Judges 9:51
-Tower of Thebez	Rock of Ages	Tower_of_Thebez_(RA2)	EF	Evil				Holds any # of Black Canaanites	While occupied and all your Evil Characters are Canaanites, negate Heroes. Protect contents from opponents. If attacked, you may return a card from here to territory.	Fixed	Judges 9:51
+Tower of Thebez	Rock of Ages	Tower_of_Thebez_(RA2)	Fortress	Evil				Holds any # of Black Canaanites	While occupied and all your Evil Characters are Canaanites, negate Heroes. Protect contents from opponents. If attacked, you may return a card from here to territory.	Fixed	Judges 9:51
 Training in Righteousness	Priests	Training_in_Righteousness_(Pi)	GE	Gold					Set a single-color human Hero aside for four turns.  On return, Hero gains two additional brigade colors of holder’s choice.	Common	II Timothy 3:16-17
 Transfiguration	Apostles	Transfiguration_(Ap)	GE	White					Holder may search draw pile or discard pile for Moses or Elijah, and band one or both into battle.  This effect may not be negated, prevented, or interrupted.	Rare	Luke 9:29-30
 Trapped in Cleverness	Apostles	Trapped_in_Cleverness_(Ap)	GE	Blue					Take any Evil Character in play prisoner and place in your land of bondage.  Treat as a Lost Soul.	Rare	I Corinthians 3:18
@@ -2626,19 +2627,19 @@ Faithful Priest	Early Church	Faithful_Priest_(EC)	Hero	Clay/Teal	3	2	Territory	X
 Fortress of Antonia (EC)	Early Church	Fortress_of_Antonia_(EC)	Site	Gray					When you are attacked, you may reveal the top X cards from your deck. Put all N.T. warrior class Characters into play and underdeck the rest.	Common	Acts 12:7
 Four Squads of Four (EC)	Early Church	Four_Squads_of_Four_(EC)	Evil Character	Gold	4	4	Warrior		Protect Lost Souls in N.T. silver Sites from rescue by humans. The first time this character is discarded, heal it. May band to Four Squads of Four.	Common	Acts 12:4
 Gamaliel's Speech	Early Church	Gamaliel's_Speech_(EC)	DAE	Clay/Gray			Territory		Place this in your territory: You may discard this card to negate and discard the last Enhancement played by an opponent or any other Enhancement in play.	Rare	Acts 5:38-39
-Gentleness (EC)	Early Church	Gentleness_(EC)	GE	Clay/Red			Territory		Place on your clay or red Hero: While that Hero is in battle, protect N.T. Humans from discard abilities and negate play abilities.	Common	Galatians 5:22-23
+Gentleness (EC)	Early Church	Gentleness_(EC)	GE	Clay/Red			Territory	Fruit of the Spirit	Place on your clay or red Hero: While that Hero is in battle, protect N.T. Humans from discard abilities and negate play abilities.	Common	Galatians 5:22-23
 Glory of the Lord (Promo)	Early Church	Glory_of_the_Lord_(Promo)	Dominant	Good					Search deck or discard pile for The Tabernacle or Solomon's Temple and play it. Place this card on you’re the Tabernacle or Solomon's Temple: Protect that Fortress and your Temple Artifacts from opponents.	Promo	II Chronicles 7:1
-Goodness (EC)	Early Church	Goodness_(EC)	GE	Clay			Territory		Place on your clay Hero: If opponent uses an evil end the battle ability, you may make that player draw 1 instead. When this hero enters battle, negate an evil card.	Common	Galatians 5:22-23
+Goodness (EC)	Early Church	Goodness_(EC)	GE	Clay			Territory	Fruit of the Spirit	Place on your clay Hero: If opponent uses an evil end the battle ability, you may make that player draw 1 instead. When this hero enters battle, negate an evil card.	Common	Galatians 5:22-23
 Hellenistic Jews	Early Church	Hellenistic_Jews_(EC)	Evil Character	Black/Gray	5	7			Each player must draw 1. If you control a Greek Evil Character, you may play a black or gray Enhancement.	Common	Acts 9:29
 Herod Agrippa I (EC)	Early Church	Herod_Agrippa_I_(EC)	Evil Character	Gold	7	7	Warrior		Discard James or the top card of opponent's deck (if it is a Lost Soul put it in play instead). Capture Peter. Acts 12 cards cannot be negated.	Common	Acts 12:1-3
 Herod's Sentries	Early Church	Herod's_Sentries_(EC)	Evil Character	Gold/Gray	6	5	Warrior		Protect captured characters from rescue unless an angel is in play. If a captured character is rescued, release it instead.	Common	Acts 12:6
 Herod's Sword	Early Church	Herod's_Sword_(EC)	EE	Gold	3	2	Weapon		Discard a human Hero. That Hero's controller may discard the top card of his deck instead (if it is a Lost Soul, put it in play instead).	Common	Acts 12:2
 Hypocrisy (EC)	Early Church	Hypocrisy_(EC)	EE	Crimson	1	2	Territory		Return any number of Heroes to owners' hands. Cannot be prevented.	Common	Galatians 2:13
-Impostors	Early Church	Impostors_(EC)	Evil Character	Crimson	7	7		X = Toughness of remnoved Hero	Remove a Hero in opponent's discard pile from the game. Protect X N.T Lost Souls from rescue.	Common	II Thessalonians 2:2
+Impostors	Early Church	Impostors_(EC)	Evil Character	Crimson	7	7		X = Toughness of removed Hero	Remove a Hero in opponent's discard pile from the game. Protect X N.T Lost Souls from rescue.	Common	II Thessalonians 2:2
 Jealous Rage	Early Church	Jealous_Rage_(EC)	EE	Black					Capture up to two human Heroes. At the beginning of your next turn, release them. Cannot be negated if used by a High Priest.	Common	Acts 5:17
-Joy (EC)	Early Church	Joy_(EC)	GE	Clay/White			Territory		Place on your clay or white Hero: Increase Hero 7/0. That Hero's special ability cannot be negated. Protect clay and white Heroes from decrease.	Common	Galatians 5:22-23
+Joy (EC)	Early Church	Joy_(EC)	GE	Clay/White			Territory	Fruit of the Spirit	Place on your clay or white Hero: Increase Hero 7/0. That Hero's special ability cannot be negated. Protect clay and white Heroes from decrease.	Common	Galatians 5:22-23
 Judaizers	Early Church	Judaizers_(EC)	Evil Character	Crimson	7	7			If blocking alone, you may underdeck a N.T. Lost Soul. Opponent my restrict players from playing enhancements during battle instead. Cannot be negated.	Common	Galatians 1:9
-Kindness (EC)	Early Church	Kindness_(EC)	GE	Clay/Gold			Territory		Place on your clay or gold Hero: During your upkeep, choose an evil brigade and each player must draw 1. Hero is immune to the chosen brigade this turn.	Common	Galatians 5:22-23
+Kindness (EC)	Early Church	Kindness_(EC)	GE	Clay/Gold			Territory	Fruit of the Spirit	Place on your clay or gold Hero: During your upkeep, choose an evil brigade and each player must draw 1. Hero is immune to the chosen brigade this turn.	Common	Galatians 5:22-23
 King's Pomp	Early Church	King's_Pomp_(EC)	EE	Multi			Territory		Discard opponents' good placed Enhancements. Place on your evil King: Negate Ignore and Site Access abilities. Protect your hand from opponents' cards.	Rare	Acts 12:21
 Leading Others Astray (EC)	Early Church	Leading_Others_Astray_(EC)	EE	Crimson	1	2			Convert a human Hero to a crimson heretic and take it to your territory. That heretic gains the ability, Protect a N.T. Lost Soul from rescue.	Common	I Corinthians 8:12-13
 Liberating Angel (EC)	Early Church	Liberating_Angel_(EC)	Hero	Silver	7	8			You may discard this Hero to release all captured Heroes and add then to battle. Cannot be interrupted.	Common	Acts 5:18-20
@@ -2653,7 +2654,7 @@ Parmenas (EC)	Early Church	Parmenas_(EC)	Hero	Clay	2	7			You may discard a clay 
 Partners with Demons (EC)	Early Church	Partners_with_Demons_(EC)	EE	Crimson/Orange	2	2			If used by a human, band to a demon. If used by a demon, discard a card in your territory to negate and discard a card in opponent's territory (except Lost Soul cards).	Common	I Corinthians 10:20
 Patience (EC)	Early Church	Patience_(EC)	GE	Clay/Green			Territory		Place on your clay or green Hero: At the end of each turn, if you did not use a draw or search ability, search a deck for a Lost Soul or Hero and put it in play.	Rare	Galatians 5:22-23
 Paul's Disciples	Early Church	Paul's_Disciples_(EC)	Hero	Clay	3	3	Territory		If Paul is captured or removed from play by an opponent's card, you may underdeck this card instead.	Common	Acts 9:36
-Peace (EC)	Early Church	Peace_(EC)	GE	Blue/Clay			Territory		Place on your clay or blue Hero: When this Hero is in battle alone, toss all Enhancements played this battle. Cannot be interrupted.	Rare	Galatians 5:22-23
+Peace (EC)	Early Church	Peace_(EC)	GE	Blue/Clay			Territory	Fruit of the Spirit	Place on your clay or blue Hero: When this Hero is in battle alone, toss all Enhancements played this battle. Cannot be interrupted.	Rare	Galatians 5:22-23
 Peter (EC)	Early Church	Peter_(EC)	Hero	Clay	10	10	Territory		Once per round you may heal another clay Hero. If Peter is captured, search deck for an Acts angel. Good Acts Enhancements played on Peter cannot be negated.	Rare	Acts 2:38
 Peter's Sermon	Early Church	Peter's_Sermon_(EC)	GE	Clay	3	3			Regardless of protection, convert a human Evil Character to a clay Hero. If used by Peter, do this twice.	Common	Acts 2:38
 Peter's Vision	Early Church	Peter's_Vision_(EC)	GE	Clay	3	4	Territory		Negate special abilities on Lost Souls and Sites this turn. Clay Heroes have Site access this turn.	Common	Acts 10:11-12
@@ -2734,7 +2735,7 @@ Preaching in the Synagogue	Early Church	Preaching_in_the_Synagogue	GE	Clay	3	3		
 Priscilla (EC)	Early Church	Priscilla_(EC)	Hero	Clay	6	8		Missionary, Roman	Protect clay missionaries from capture. While Aquila is in battle, negate O.T. evil Enhancements.	Common	Acts 18:2
 Secundus	Early Church	Secundus	Hero	Clay	5	6		Thessalonica	Select a good and an evil Enhancement in your discard pile; opponent chooses one to remove from the game, add the otehr to your hand. May band to Aristarchus or a missionary.	Common	Acts 20:4
 Seized by Rioters	Early Church	Seized_by_Rioters	EE	Black	2	2			Interrupt the battle and set aside 2 Heroes for 2 turns.	Common	Acts 19:29
-Self Control	Early Church	Self_Control	GE	Clay/Teal			Territory		Place on your clay or teal Hero: Protect your hand and deck from opponents' cards.	Rare	Galatians 5:22-23
+Self Control	Early Church	Self_Control	GE	Clay/Teal			Territory	Fruit of the Spirit	Place on your clay or teal Hero: Protect your hand and deck from opponents' cards.	Rare	Galatians 5:22-23
 Shipwreck (EC)	Early Church	Shipwreck	Dominant	Evil					Negate and discard a Fortress or Site in play or set aside.	Ultra Rare	Acts 27:41
 Shrine to Artemis	Early Church	Shrine_to_Artemis	Artifact					Idol	On activation you may shuffle a card (except a Lost Soul) in your territory or set-aside area into deck to search deck for a black Greek and put in play.	Common	Acts 19:35
 Silas (EC)	Early Church	Silas_(EC)	Hero	Clay/Green	6	5		Apostle, Prophet, MIssionary, X=# of your Missionaries	Protect clay Heroes in territories from decrease and side battles. When a missionary rescues a Lost Soul, you may top deck up to X cards from bottom of deck.	Rare	Acts 15:22

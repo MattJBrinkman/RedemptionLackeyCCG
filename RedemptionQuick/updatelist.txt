@@ -31,7 +31,8 @@ plugins/Redemption/packs/Thess.jpg	http://general-emjaybee83.rhcloud.com/Redempt
 plugins/Redemption/packs/Unlimited.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/Unlimtied.jpg	4514
 plugins/Redemption/packs/Warriors.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/Warriors.jpg	-8142
 plugins/Redemption/packs/Women.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/Women.jpg	1031
-plugins/Redemption/packs/packdefinitions.xml	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/packdefinitions.xml	1064605
-plugins/Redemption/sets/carddata.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/sets/carddata.txt	40225084
+plugins/Redemption/packs/packdefinitions.xml	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/packdefinitions.xml	1064515
+plugins/Redemption/sets/carddata.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/sets/carddata.txt	40252775
+plugins/Redemption/sounds/wtf.wav	http://general-emjaybee83.rhcloud.com/RedemptionQuick/sounds/wtf.wav	-47134
 CardGeneralURLs:
 http://general-emjaybee83.rhcloud.com/RedemptionQuick/sets/setimages/general/

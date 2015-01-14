@@ -215,7 +215,7 @@
 <chance>
   <prob>12</prob>
   <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Thesaurus ex Preteritus</data></crit></kind>
-  <kind><qty>3</qty><crit><field>Set</field><eval>CONTAINS</eval><data>Unlimited</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Main Unlimited</data></crit></kind>
   <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Warriors</data></crit></kind>
   <kind>
     <qty>5</qty>
@@ -231,7 +231,7 @@
 <chance>
   <prob>38</prob>
   <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Thesaurus ex Preteritus</data></crit></kind>
-  <kind><qty>2</qty><crit><field>Set</field><eval>CONTAINS</eval><data>Unlimited</data></crit></kind>
+  <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Main Unlimited</data></crit></kind>
   <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Prophets</data></crit></kind>
   <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Warriors</data></crit></kind>
   <kind>
@@ -248,7 +248,7 @@
 <chance>
   <prob>38</prob>
   <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Thesaurus ex Preteritus</data></crit></kind>
-  <kind><qty>1</qty><crit><field>Set</field><eval>CONTAINS</eval><data>Unlimited</data></crit></kind>
+  <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Main Unlimited</data></crit></kind>
   <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Prophets</data></crit></kind>
   <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Warriors</data></crit></kind>
   <kind>

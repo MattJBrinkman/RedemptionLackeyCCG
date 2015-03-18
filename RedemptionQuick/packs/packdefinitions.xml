@@ -299,4 +299,422 @@
   </kind>
 </chance>
 </pack>
+
+<pack>
+<packtitle>The Early Church</packtitle>
+<packimage>TEC</packimage>
+<packformat>Standard</packformat>
+<packkind>Booster</packkind>
+<chance>
+  <prob>29</prob>
+  <kind>
+    <qty>2</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+    <qty>2</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>24</prob>
+  <kind>
+    <qty>3</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>16</prob>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+    <qty>3</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>8</prob>
+  <kind>
+    <qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>5</prob>
+  <kind>
+    <qty>3</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>3</prob>
+  <kind>
+    <qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>3</prob>
+  <kind>
+    <qty>2</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+    <qty>2</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>2</prob>
+  <kind>
+    <qty>3</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>2</prob>
+  <kind>
+    <qty>3</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+  </kind>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>1</prob>
+  <kind>
+    <qty>3</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+  </kind>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>2</prob>
+  <kind>
+    <qty>2</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+  </kind>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>1</prob>
+  <kind>
+    <qty>2</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+  </kind>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>2</prob>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+    <qty>2</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+  </kind>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>1</prob>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+    <qty>2</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+  </kind>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>1</prob>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+    <qty>3</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+  </kind>
+</chance>
+<chance>
+  <prob>1</prob>
+  <kind>
+    <qty>3</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Kings</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+  </kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  <kind>
+	<qty>4</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+	<qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Early Church</data></crit>
+	<crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+</chance>
+</pack>
+
 </packdefinitions>

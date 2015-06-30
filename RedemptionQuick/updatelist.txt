@@ -1,4 +1,4 @@
-Redemption	03-18-15
+Redemption	06-29-15
 plugins/Redemption/bot.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/bot.jpg	2734
 plugins/Redemption/cardback.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/cardback.jpg	14307
 plugins/Redemption/plugininfo.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/plugininfo.txt	317994

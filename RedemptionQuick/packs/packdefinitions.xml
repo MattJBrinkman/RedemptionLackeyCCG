@@ -299,7 +299,6 @@
   </kind>
 </chance>
 </pack>
-
 <pack>
 <packtitle>The Early Church</packtitle>
 <packimage>TEC</packimage>
@@ -716,5 +715,58 @@
   </kind>
 </chance>
 </pack>
-
+<pack>
+<packtitle>The Persecuted Church</packtitle>
+<packimage>TPC</packimage>
+<packformat>Standard</packformat>
+<packkind>Booster</packkind>
+<chance>
+  <prob>10</prob>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Persecuted Church</data></crit>
+    <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+  </kind>
+  <kind>
+    <qty>3</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Persecuted Church</data></crit>
+    <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Warriors</data></crit>
+    <crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+  </kind>
+  <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Main Unlimited</data></crit></kind>
+  <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Patriarchs</data></crit></kind>
+  <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Prophets</data></crit></kind>
+  <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Apostles</data></crit></kind>
+  <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Angel Wars</data></crit></kind>
+  <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Kings</data></crit></kind>
+</chance>
+<chance>
+  <prob>90</prob>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Persecuted Church</data></crit>
+    <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+  </kind>
+  <kind>
+    <qty>3</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Persecuted Church</data></crit>
+    <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+  </kind>
+  <kind>
+    <qty>1</qty>
+	<crit><field>Set</field><eval>IS</eval><data>Warriors</data></crit>
+    <crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+  </kind>
+  <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Main Unlimited</data></crit></kind>
+  <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Patriarchs</data></crit></kind>
+  <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Prophets</data></crit></kind>
+  <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Apostles</data></crit></kind>
+  <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Angel Wars</data></crit></kind>
+  <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Kings</data></crit></kind>
+</chance>
+</pack>
 </packdefinitions>

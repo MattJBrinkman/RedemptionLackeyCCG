@@ -1,4 +1,4 @@
-Redemption	08-17-15
+Redemption	08-19-15
 plugins/Redemption/bot.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/bot.jpg	2734
 plugins/Redemption/cardback.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/cardback.jpg	14307
 plugins/Redemption/plugininfo.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/plugininfo.txt	317994
@@ -34,7 +34,7 @@ plugins/Redemption/packs/Unlimited.jpg	http://general-emjaybee83.rhcloud.com/Red
 plugins/Redemption/packs/Warriors.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/Warriors.jpg	-8142
 plugins/Redemption/packs/Women.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/Women.jpg	1031
 plugins/Redemption/packs/packdefinitions.xml	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/packdefinitions.xml	2579843
-plugins/Redemption/sets/carddata.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/sets/carddata.txt	42325726
+plugins/Redemption/sets/carddata.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/sets/carddata.txt	42325789
 plugins/Redemption/sounds/wtf.wav	http://general-emjaybee83.rhcloud.com/RedemptionQuick/sounds/wtf.wav	-47134
 CardGeneralURLs:
 http://general-emjaybee83.rhcloud.com/RedemptionQuick/sets/setimages/general/

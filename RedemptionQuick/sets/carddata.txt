@@ -1437,7 +1437,7 @@ Lost Soul Ezekiel 36:19 (Promo)	Promo	Lost_Soul_Ezekiel_36_19_(Promo)	Lost Soul	
 Lost Soul Ezekiel 36:19 (UL)	1st Edition Unlimited	Lost_Soul_Ezekiel_36_19_(B)	Lost Soul							Deck	Ezekiel 36:19
 Lost Soul Galatians 3:13 (Anti Burial)	Angel Wars	Lost_Soul_Galatians_3_13_(Anti_Burial)_(AW)	Lost Soul						While this card is in a Land of Redemption, all cards in that player’s Land of Bondage are protected from Burial.	Rare	Galatians 3:13
 Lost Soul Hosea 13:2 (Deck Discarder)	Rock of Ages	Lost_Soul_Hosea_13_2_(Deck_Discarder)_(RA)	Lost Soul						When this Lost Soul is put in a Site, discard the top card of each opponent's deck. If it is a Lost Soul, put it in play instead.	Fixed	Hosea 13:2
-Lost Soul I Corinthians 1:27 (Hand Discarder)	10th Anniversary	Lost_Soul_I_Corinthians_1_27_(Hand Discarder)_(G)	Lost Soul						If you put this lost soul in a site, each of your opponents must discard a card from hand.	Deck	I Corinthians 1:27
+Lost Soul I Corinthians 1:27 (Hand Discarder)	10th Anniversary	Lost_Soul_I_Corinthians_1_27_(Hand_Discarder)_(G)	Lost Soul						If you put this lost soul in a site, each of your opponents must discard a card from hand.	Deck	I Corinthians 1:27
 Lost Soul I Kings 17:12 ( C)	2nd Edition	Lost_Soul_I_Kings_17_12_(C)	Lost Soul							Deck	I Kings 17:12
 Lost Soul I Kings 17:12 (L)	Main	Lost_Soul_I_Kings_17_12_(UL)	Lost Soul							Uncommon	I Kings 17:12
 Lost Soul I Kings 17:12 (UL)	Main Unlimited	Lost_Soul_I_Kings_17_12_(UL)	Lost Soul							Uncommon	I Kings 17:12
@@ -1512,7 +1512,7 @@ Lost Soul Proverbs 21:16 (I)	I	Lost_Soul_Proverbs_21_16_(I)	Lost Soul							Deck
 Lost Soul Proverbs 21:17	3rd Edition	Lost_Soul_Proverbs_21_17_(F)	Lost Soul							Deck	Proverbs 21:17
 Lost Soul Proverbs 21:24 (F)	3rd Edition	Lost_Soul_Proverbs_21_24_(F)	Lost Soul							Deck	Proverbs 21:24
 Lost Soul Proverbs 21:24 (I)	I	Lost_Soul_Proverbs_21_24_(I)	Lost Soul							Deck	Proverbs 21:24
-Lost Soul Proverbs 22:10 (Anti Ignore)	Rock of Ages	Lost_Soul_Proverbs_22_10_(Anti_Ignore) (RA)	Lost Soul						While you have only one evil brigade in play, negate all ignore abilities on O.T. good cards.	Fixed	Proverbs 22:10
+Lost Soul Proverbs 22:10 (Anti Ignore)	Rock of Ages	Lost_Soul_Proverbs_22_10_(Anti_Ignore)_(RA)	Lost Soul						While you have only one evil brigade in play, negate all ignore abilities on O.T. good cards.	Fixed	Proverbs 22:10
 Lost Soul Proverbs 7:27 (H)	10th Anniversary	Lost_Soul_Proverbs_7_27_(H)	Lost Soul							Deck	Proverbs 7:27
 Lost Soul Proverbs 7:27 (Wo)	Women	Lost_Soul_Proverbs_7_27_(Wo)	Lost Soul							Common	Proverbs 7:27
 Lost Soul Psalm 1:4 (Site Doubler)	Kings	Lost_Soul_Psalm_1_4_(Site_Doubler)_(Ki)	Lost Soul						This Lost Soul may be held captive in a Site currently occupied by another Lost Soul.	Common	Psalm 1:4

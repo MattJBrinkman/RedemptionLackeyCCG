@@ -3,7 +3,8 @@ carddata.txt
 
 1
 Standard
-24
+
+26
 10th Anniversary
 1st Edition
 1st Edition Unlimited
@@ -12,6 +13,7 @@ Standard
 3rd Edition
 Angel Wars
 Apostles
+Cloud of Witnesses
 Disciples
 Early Church
 Faith of Our Fathers
@@ -21,6 +23,7 @@ Kings
 Main
 Main Unlimited
 Patriarchs
+Persecuted Church
 Priests
 Promo
 Prophets

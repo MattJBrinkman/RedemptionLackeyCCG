@@ -1,210 +1,209 @@
 <packdefinitions version="1.0">
 
 <pack>
-<packtitle>Booster Draft Souls</packtitle>
-<packimage>Unlimited</packimage>
-<packformat>Fixed</packformat>
-<packkind>Lost Souls</packkind>
-<packcommoncrit><field>Set</field><eval>CONTAINS</eval><data>2nd Edition</data></packcommoncrit>
-<chance>
-<kind><qty>8</qty><crit><field>Type</field><eval>IS</eval><data>Lost Soul</data></crit></kind>
-</chance>
+  <packtitle>Booster Draft Souls</packtitle>
+  <packimage>Unlimited</packimage>
+  <packformat>Fixed</packformat>
+  <packkind>Lost Souls</packkind>
+  <packcommoncrit><field>Set</field><eval>CONTAINS</eval><data>2nd Edition</data></packcommoncrit>
+  <chance>
+    <kind><qty>8</qty><crit><field>Type</field><eval>IS</eval><data>Lost Soul</data></crit></kind>
+  </chance>
 </pack>
 
 <pack>
-<packtitle>Unlimited</packtitle>
-<packimage>Unlimited</packimage>
-<packformat>Standard</packformat>
-<packkind>Booster</packkind>
-<packcommoncrit><field>Set</field><eval>CONTAINS</eval><data>Main Unlimited</data></packcommoncrit>
-<chance>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
-<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
+  <packtitle>Unlimited</packtitle>
+  <packimage>Unlimited</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <packcommoncrit><field>Set</field><eval>CONTAINS</eval><data>Main Unlimited</data></packcommoncrit>
+  <chance>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
 </pack>
 
 <pack>
-<packtitle>Prophets</packtitle>
-<packimage>Prophets</packimage>
-<packformat>Standard</packformat>
-<packkind>Booster</packkind>
-<packcommoncrit><field>Set</field><eval>IS</eval><data>Prophets</data></packcommoncrit>
-<chance>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
-<kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
+  <packtitle>Prophets</packtitle>
+  <packimage>Prophets</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <packcommoncrit><field>Set</field><eval>IS</eval><data>Prophets</data></packcommoncrit>
+  <chance>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
 </pack>
 
 <pack>
-<packtitle>Women</packtitle>
-<packimage>Women</packimage>
-<packformat>Standard</packformat>
-<packkind>Booster</packkind>
-<packcommoncrit><field>Set</field><eval>IS</eval><data>Women</data></packcommoncrit>
-<chance>
-<kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
+  <packtitle>Women</packtitle>
+  <packimage>Women</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <packcommoncrit><field>Set</field><eval>IS</eval><data>Women</data></packcommoncrit>
+  <chance>
+    <kind><qty>8</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
 </pack>
 
 <pack>
-<packtitle>Warriors</packtitle>
-<packimage>Warriors</packimage>
-<packformat>Standard</packformat>
-<packkind>Booster</packkind>
-<packcommoncrit><field>Set</field><eval>IS</eval><data>Warriors</data></packcommoncrit>
-<chance>
-<prob>10</prob>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
-<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
-<chance>
-<prob>90</prob>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
-<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
+  <packtitle>Warriors</packtitle>
+  <packimage>Warriors</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <packcommoncrit><field>Set</field><eval>IS</eval><data>Warriors</data></packcommoncrit>
+  <chance>
+    <prob>10</prob>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>90</prob>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
 </pack>
 
 <pack>
-<packtitle>Apostles</packtitle>
-<packimage>Apostles</packimage>
-<packformat>Standard</packformat>
-<packkind>Booster</packkind>
-<packcommoncrit><field>Set</field><eval>IS</eval><data>Apostles</data></packcommoncrit>
-<chance>
-<prob>18</prob>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
-<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
-<chance>
-<prob>82</prob>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
-<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
+  <packtitle>Apostles</packtitle>
+  <packimage>Apostles</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <packcommoncrit><field>Set</field><eval>IS</eval><data>Apostles</data></packcommoncrit>
+  <chance>
+    <prob>18</prob>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>82</prob>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
 </pack>
 
 <pack>
-<packtitle>Patriarchs</packtitle>
-<packimage>Patriarchs</packimage>
-<packformat>Standard</packformat>
-<packkind>Booster</packkind>
-<packcommoncrit><field>Set</field><eval>IS</eval><data>Patriarchs</data></packcommoncrit>
-<chance>
-<prob>10</prob>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
-<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
-<chance>
-<prob>90</prob>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
-<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
+  <packtitle>Patriarchs</packtitle>
+  <packimage>Patriarchs</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <packcommoncrit><field>Set</field><eval>IS</eval><data>Patriarchs</data></packcommoncrit>
+  <chance>
+    <prob>10</prob>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>90</prob>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
 </pack>
 
 <pack>
-<packtitle>Kings</packtitle>
-<packimage>Kings</packimage>
-<packformat>Standard</packformat>
-<packkind>Booster</packkind>
-<packcommoncrit><field>Set</field><eval>IS</eval><data>Kings</data></packcommoncrit>
-<chance>
-<prob>10</prob>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
-<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
-<chance>
-<prob>90</prob>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
-<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
+  <packtitle>Kings</packtitle>
+  <packimage>Kings</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <packcommoncrit><field>Set</field><eval>IS</eval><data>Kings</data></packcommoncrit>
+  <chance>
+    <prob>10</prob>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>90</prob>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
 </pack>
 
 <pack>
-<packtitle>Angel Wars</packtitle>
-<packimage>AngelWars</packimage>
-<packformat>Standard</packformat>
-<packkind>Booster</packkind>
-<packcommoncrit><field>Set</field><eval>IS</eval><data>Angel Wars</data></packcommoncrit>
-<chance>
-<prob>10</prob>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
-<kind><qty>9</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
-<chance>
-<prob>90</prob>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
-<kind><qty>9</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
+  <packtitle>Angel Wars</packtitle>
+  <packimage>AngelWars</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <packcommoncrit><field>Set</field><eval>IS</eval><data>Angel Wars</data></packcommoncrit>
+  <chance>
+    <prob>10</prob>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
+    <kind><qty>9</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>90</prob>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+    <kind><qty>9</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
 </pack>
 
 <pack>
-<packtitle>Priests</packtitle>
-<packimage>Priests</packimage>
-<packformat>Standard</packformat>
-<packkind>Booster</packkind>
-<packcommoncrit><field>Set</field><eval>IS</eval><data>Priests</data></packcommoncrit>
-<chance>
-<prob>13</prob>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
-<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
-<chance>
-<prob>87</prob>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
-<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
+  <packtitle>Priests</packtitle>
+  <packimage>Priests</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <packcommoncrit><field>Set</field><eval>IS</eval><data>Priests</data></packcommoncrit>
+  <chance>
+    <prob>13</prob>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>87</prob>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
 </pack>
 
 <pack>
-<packtitle>Priests</packtitle>
-<packimage>Priests</packimage>
-<packformat>Standard</packformat>
-<packkind>Booster</packkind>
-<packcommoncrit><field>Set</field><eval>IS</eval><data>Priests</data></packcommoncrit>
-<chance>
-<prob>13</prob>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
-<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
-<chance>
-<prob>87</prob>
-<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
-<kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-<kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
-</chance>
+  <packtitle>Priests</packtitle>
+  <packimage>Priests</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <packcommoncrit><field>Set</field><eval>IS</eval><data>Priests</data></packcommoncrit>
+  <chance>
+    <prob>13</prob>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>87</prob>
+    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
+    <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+  </chance>
 </pack>
 
 <pack>
-<packtitle>Starter I</packtitle>
-<packimage>starter_4th</packimage>
-<packformat>Standard</packformat>
-<packkind>Starter</packkind>
-<chance>
-<kind><qty>50</qty><crit><field>Set</field><eval>IS</eval><data>I</data></crit></kind>
-</chance>
+  <packtitle>Starter I</packtitle>
+  <packimage>starter_4th</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Starter</packkind>
+  <chance>
+    <kind><qty>50</qty><crit><field>Set</field><eval>IS</eval><data>I</data></crit></kind>
+  </chance>
 </pack>
 
 <pack>
-<packtitle>Starter J</packtitle>
-<packimage>starter_4th</packimage>
-<packformat>Standard</packformat>
-<packkind>Starter</packkind>
-<chance>
-<kind>
-  <qty>50</qty><crit><field>Set</field><eval>IS</eval><data>J</data></crit></kind>
-</chance>
+  <packtitle>Starter J</packtitle>
+  <packimage>starter_4th</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Starter</packkind>
+  <chance>
+    <kind><qty>50</qty><crit><field>Set</field><eval>IS</eval><data>J</data></crit></kind>
+  </chance>
 </pack>
 
 <pack>
@@ -279,26 +278,28 @@
   </kind>
 </chance>
 </pack>
+
 <pack>
-<packtitle>Disciples</packtitle>
-<packimage>Disciples</packimage>
-<packformat>Standard</packformat>
-<packkind>Booster</packkind>
-<chance>
-  <kind><qty>4</qty><crit><field>Set</field><eval>IS</eval><data>Disciples</data></crit></kind>
-  <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Angel Wars</data></crit></kind>
-  <kind>
-    <qty>4</qty>
-    <crit><field>Set</field><eval>IS</eval><data>Patriarchs</data></crit>
-    <crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
-  </kind>
-  <kind>
-    <qty>4</qty>
-    <crit><field>Set</field><eval>IS</eval><data>Apostles</data></crit>
-    <crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
-  </kind>
-</chance>
+  <packtitle>Disciples</packtitle>
+  <packimage>Disciples</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <chance>
+    <kind><qty>4</qty><crit><field>Set</field><eval>IS</eval><data>Disciples</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Angel Wars</data></crit></kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Patriarchs</data></crit>
+      <crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Apostles</data></crit>
+      <crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+    </kind>
+  </chance>
 </pack>
+
 <pack>
 <packtitle>The Early Church</packtitle>
 <packimage>TEC</packimage>
@@ -715,6 +716,7 @@
   </kind>
 </chance>
 </pack>
+
 <pack>
 <packtitle>The Persecuted Church</packtitle>
 <packimage>TPC</packimage>
@@ -768,5 +770,64 @@
   <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Angel Wars</data></crit></kind>
   <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Kings</data></crit></kind>
 </chance>
+</pack>
+
+<pack>
+  <packtitle>Cloud of Witnesses</packtitle>
+  <packimage>CoW</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <chance>
+    <prob>10</prob>
+    <kind>
+      <qty>1</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Cloud of Witnesses</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Cloud of Witnesses</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Warriors</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Angel Wars</data></crit></kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Kings</data></crit></kind>
+    <kind>
+      <qty>2</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Apostles</data></crit>
+      <crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>2</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Patriarchs</data></crit>
+      <crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>90</prob>
+    <kind>
+      <qty>1</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Cloud of Witnesses</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Cloud of Witnesses</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Warriors</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Angel Wars</data></crit></kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Kings</data></crit></kind>
+    <kind>
+      <qty>2</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Apostles</data></crit>
+      <crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>2</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Patriarchs</data></crit>
+      <crit><field>Rarity</field><eval>CONTAINS</eval><data>Rare</data></crit>
+    </kind>
+  </chance>
 </pack>
 </packdefinitions>

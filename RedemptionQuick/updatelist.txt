@@ -35,7 +35,7 @@ plugins/Redemption/packs/Unlimited.jpg	http://general-emjaybee83.rhcloud.com/Red
 plugins/Redemption/packs/Warriors.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/Warriors.jpg	-8142
 plugins/Redemption/packs/Women.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/Women.jpg	1031
 plugins/Redemption/packs/packdefinitions.xml	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/packdefinitions.xml	2790509
-plugins/Redemption/sets/carddata.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/sets/carddata.txt	45180655
+plugins/Redemption/sets/carddata.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/sets/carddata.txt	45246262
 plugins/Redemption/sounds/wtf.wav	http://general-emjaybee83.rhcloud.com/RedemptionQuick/sounds/wtf.wav	-47134
 CardGeneralURLs:
 http://general-emjaybee83.rhcloud.com/RedemptionQuick/sets/setimages/general/

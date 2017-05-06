@@ -830,4 +830,43 @@
     </kind>
   </chance>
 </pack>
+
+<pack>
+  <packtitle>Revelation of John</packtitle>
+  <packimage>RoJ</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <chance>
+    <prob>4</prob>
+    <kind>
+      <qty>1</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Revelation of John</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Revelation of John</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>5</qty><crit><field>Set</field><eval>IS</eval><data>Priests</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>96</prob>
+    <kind>
+      <qty>1</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Revelation of John</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Revelation of John</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>5</qty><crit><field>Set</field><eval>IS</eval><data>Priests</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+  </chance>
+</pack>
 </packdefinitions>

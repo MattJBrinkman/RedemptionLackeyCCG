@@ -2,7 +2,7 @@ Redemption	05-28-16
 plugins/Redemption/bot.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/bot.jpg	2734
 plugins/Redemption/cardback.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/cardback.jpg	14307
 plugins/Redemption/plugininfo.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/plugininfo.txt	317994
-plugins/Redemption/setlist.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/setlist.txt	30000
+plugins/Redemption/setlist.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/setlist.txt	31725
 plugins/Redemption/decks/C_Deck_1st_print.dek	http://general-emjaybee83.rhcloud.com/RedemptionQuick/decks/C_Deck_1st_print.dek	391925
 plugins/Redemption/decks/C_Deck_2nd_print.dek	http://general-emjaybee83.rhcloud.com/RedemptionQuick/decks/C_Deck_2nd_print.dek	391235
 plugins/Redemption/decks/D_Deck_1st_print.dek	http://general-emjaybee83.rhcloud.com/RedemptionQuick/decks/D_Deck_1st_print.dek	379315
@@ -28,14 +28,15 @@ plugins/Redemption/packs/Priests.jpg	http://general-emjaybee83.rhcloud.com/Redem
 plugins/Redemption/packs/Prophets.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/Prophets.jpg	-7390
 plugins/Redemption/packs/red_rock_ages_thumb.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/red_rock_ages_thumb.jpg	-702
 plugins/Redemption/packs/Starter_4th.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/starter_4th.jpg	-292289
+plugins/Redemption/packs/RoJ.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/RoJ.jpg	35530
 plugins/Redemption/packs/TEC.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/TEC.jpg	3997
 plugins/Redemption/packs/Thess.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/Thess.jpg	-3553
 plugins/Redemption/packs/TPC.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/TPC.jpg	21682
 plugins/Redemption/packs/Unlimited.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/Unlimited.jpg	4514
 plugins/Redemption/packs/Warriors.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/Warriors.jpg	-8142
 plugins/Redemption/packs/Women.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/Women.jpg	1031
-plugins/Redemption/packs/packdefinitions.xml	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/packdefinitions.xml	2790509
-plugins/Redemption/sets/carddata.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/sets/carddata.txt	45281829
+plugins/Redemption/packs/packdefinitions.xml	http://general-emjaybee83.rhcloud.com/RedemptionQuick/packs/packdefinitions.xml	2926300
+plugins/Redemption/sets/carddata.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/sets/carddata.txt	48453986
 plugins/Redemption/sounds/wtf.wav	http://general-emjaybee83.rhcloud.com/RedemptionQuick/sounds/wtf.wav	-47134
 CardGeneralURLs:
 http://general-emjaybee83.rhcloud.com/RedemptionQuick/sets/setimages/general/

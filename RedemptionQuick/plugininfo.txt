@@ -41,6 +41,11 @@
 	<visibletoowner>yes</visibletoowner>
 	<visibletoothers>no</visibletoothers>
 </gamezone>
+<gamezone>
+	<label>Removed</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
 
 <phase><label>Draw</label></phase>
 <phase><label>Upkeep</label></phase>

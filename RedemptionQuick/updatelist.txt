@@ -1,7 +1,7 @@
 Redemption	05-28-16
 plugins/Redemption/bot.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/bot.jpg	2734
 plugins/Redemption/cardback.jpg	http://general-emjaybee83.rhcloud.com/RedemptionQuick/cardback.jpg	14307
-plugins/Redemption/plugininfo.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/plugininfo.txt	328668
+plugins/Redemption/plugininfo.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/plugininfo.txt	340327
 plugins/Redemption/setlist.txt	http://general-emjaybee83.rhcloud.com/RedemptionQuick/setlist.txt	31725
 plugins/Redemption/decks/C_Deck_1st_print.dek	http://general-emjaybee83.rhcloud.com/RedemptionQuick/decks/C_Deck_1st_print.dek	391925
 plugins/Redemption/decks/C_Deck_2nd_print.dek	http://general-emjaybee83.rhcloud.com/RedemptionQuick/decks/C_Deck_2nd_print.dek	391235

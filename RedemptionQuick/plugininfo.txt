@@ -10,6 +10,11 @@
 	<shuffle>yes</shuffle>
 	<gamezonetoloadto>Library</gamezonetoloadto>
 </deckzone>
+<deckzone>
+	<label>Reserve</label>
+	<shuffle>no</shuffle>
+	<gamezonetoloadto>Reserve</gamezonetoloadto>
+</deckzone>
 
 <gamezone>
 	<label>Hand</label>
@@ -23,8 +28,8 @@
 </gamezone>
 <gamezone>
 	<label>Discard</label>
-	<visibletoowner>no</visibletoowner>
-	<visibletoothers>no</visibletoothers>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
 </gamezone>
 <gamezone>
 	<label>Land of Redemption</label>
@@ -32,9 +37,9 @@
 	<visibletoothers>yes</visibletoothers>
 </gamezone>
 <gamezone>
-	<label>Removed</label>
+	<label>Reserve</label>
 	<visibletoowner>yes</visibletoowner>
-	<visibletoothers>yes</visibletoothers>
+	<visibletoothers>no</visibletoothers>
 </gamezone>
 
 <phase><label>Draw</label></phase>

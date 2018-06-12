@@ -869,4 +869,113 @@
     <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
   </chance>
 </pack>
+
+<pack>
+  <packtitle>Fall of Man</packtitle>
+  <packimage>FallOfMan</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <chance>
+    <prob>2</prob>
+    <kind>
+      <qty>1</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Fall of Man</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Fall of Man</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Thesaurus ex Preteritus</data></crit></kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Disciples</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Patriarchs</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Set</field><eval>IS</eval><data>Kings</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>2</prob>
+    <kind>
+      <qty>1</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Fall of Man</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Fall of Man</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Thesaurus ex Preteritus</data></crit></kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Disciples</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Set</field><eval>IS</eval><data>Patriarchs</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Kings</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>32</prob>
+    <kind>
+      <qty>1</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Fall of Man</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Fall of Man</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Thesaurus ex Preteritus</data></crit></kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Disciples</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Patriarchs</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Set</field><eval>IS</eval><data>Kings</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>32</prob>
+    <kind>
+      <qty>1</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Fall of Man</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Fall of Man</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Thesaurus ex Preteritus</data></crit></kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Disciples</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Set</field><eval>IS</eval><data>Patriarchs</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Kings</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>16</prob>
+    <kind>
+      <qty>1</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Fall of Man</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Legacy Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Fall of Man</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Thesaurus ex Preteritus</data></crit></kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Disciples</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Patriarchs</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Set</field><eval>IS</eval><data>Kings</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>16</prob>
+    <kind>
+      <qty>1</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Fall of Man</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Legacy Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+	  <crit><field>Set</field><eval>IS</eval><data>Fall of Man</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>1</qty><crit><field>Set</field><eval>IS</eval><data>Thesaurus ex Preteritus</data></crit></kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Disciples</data></crit></kind>
+    <kind><qty>4</qty><crit><field>Set</field><eval>IS</eval><data>Patriarchs</data></crit></kind>
+    <kind><qty>3</qty><crit><field>Set</field><eval>IS</eval><data>Kings</data></crit></kind>
+  </chance>
+</pack>
 </packdefinitions>

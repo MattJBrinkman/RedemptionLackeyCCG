@@ -4,7 +4,7 @@ carddata.txt
 1
 Standard
 
-26
+28
 10th Anniversary
 1st Edition
 1st Edition Unlimited
@@ -17,6 +17,7 @@ Cloud of Witnesses
 Disciples
 Early Church
 Faith of Our Fathers
+Fall of Man
 I
 J
 Kings

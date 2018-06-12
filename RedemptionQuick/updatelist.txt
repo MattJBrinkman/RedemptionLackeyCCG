@@ -2,7 +2,7 @@ Redemption	05-28-16
 plugins/Redemption/bot.jpg	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/bot.jpg	2734
 plugins/Redemption/cardback.jpg	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/cardback.jpg	14307
 plugins/Redemption/plugininfo.txt	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/plugininfo.txt	340327
-plugins/Redemption/setlist.txt	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/setlist.txt	31725
+plugins/Redemption/setlist.txt	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/setlist.txt	32671
 plugins/Redemption/decks/C_Deck_1st_print.dek	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/decks/C_Deck_1st_print.dek	391925
 plugins/Redemption/decks/C_Deck_2nd_print.dek	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/decks/C_Deck_2nd_print.dek	391235
 plugins/Redemption/decks/D_Deck_1st_print.dek	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/decks/D_Deck_1st_print.dek	379315
@@ -35,8 +35,8 @@ plugins/Redemption/packs/TPC.jpg	http://hcsp-redemption-lackey-ccg.7e14.starter-
 plugins/Redemption/packs/Unlimited.jpg	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/packs/Unlimited.jpg	4514
 plugins/Redemption/packs/Warriors.jpg	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/packs/Warriors.jpg	-8142
 plugins/Redemption/packs/Women.jpg	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/packs/Women.jpg	1031
-plugins/Redemption/packs/packdefinitions.xml	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/packs/packdefinitions.xml	2926300
-plugins/Redemption/sets/carddata.txt	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/sets/carddata.txt	48425017
+plugins/Redemption/packs/packdefinitions.xml	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/packs/packdefinitions.xml	3349456
+plugins/Redemption/sets/carddata.txt	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/sets/carddata.txt	51893583
 plugins/Redemption/sounds/anb.wav	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/sounds/anb.wav	-414625
 plugins/Redemption/sounds/wtf.wav	http://hcsp-redemption-lackey-ccg.7e14.starter-us-west-2.openshiftapps.com/RedemptionQuick/sounds/wtf.wav	-47134
 CardGeneralURLs:

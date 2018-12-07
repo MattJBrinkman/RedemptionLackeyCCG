@@ -4,7 +4,7 @@ carddata.txt
 1
 Standard
 
-28
+29
 10th Anniversary
 1st Edition
 1st Edition Unlimited
@@ -27,6 +27,7 @@ Patriarchs
 Persecuted Church
 Priests
 Promo
+Prophecies of Christ
 Prophets
 Revelation of John
 Rock of Ages

@@ -25,7 +25,7 @@ plugins/Redemption/packs/faith_fathers_tin.jpg	http://www.redemptionquick.com/la
 plugins/Redemption/packs/Kings.jpg	http://www.redemptionquick.com/lackey/packs/Kings.jpg	9633
 plugins/Redemption/packs/Patriarchs.jpg	http://www.redemptionquick.com/lackey/packs/Patriarchs.jpg	7073
 plugins/Redemption/packs/Priests.jpg	http://www.redemptionquick.com/lackey/packs/Priests.jpg	-11015
-plugins/Redemption/packs/prophecy_christ_mockup.jpg	http://www.redemptionquick.com/lackey/packs/prophecy_christ_mockup.jpg	-11015
+plugins/Redemption/packs/prophecy_christ_mockup.jpg	http://www.redemptionquick.com/lackey/packs/prophecy_christ_mockup.jpg	0
 plugins/Redemption/packs/Prophets.jpg	http://www.redemptionquick.com/lackey/packs/Prophets.jpg	-7390
 plugins/Redemption/packs/red_rock_ages_thumb.jpg	http://www.redemptionquick.com/lackey/packs/red_rock_ages_thumb.jpg	-702
 plugins/Redemption/packs/Starter_4th.jpg	http://www.redemptionquick.com/lackey/packs/starter_4th.jpg	-292289

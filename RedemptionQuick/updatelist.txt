@@ -2,7 +2,7 @@ Redemption	05-28-16
 plugins/Redemption/bot.jpg	http://www.redemptionquick.com/lackey/bot.jpg	2734
 plugins/Redemption/cardback.jpg	http://www.redemptionquick.com/lackey/cardback.jpg	14307
 plugins/Redemption/plugininfo.txt	http://www.redemptionquick.com/lackey/plugininfo.txt	340327
-plugins/Redemption/setlist.txt	http://www.redemptionquick.com/lackey/setlist.txt	32671
+plugins/Redemption/setlist.txt	http://www.redemptionquick.com/lackey/setlist.txt	34612
 plugins/Redemption/decks/C_Deck_1st_print.dek	http://www.redemptionquick.com/lackey/decks/C_Deck_1st_print.dek	391925
 plugins/Redemption/decks/C_Deck_2nd_print.dek	http://www.redemptionquick.com/lackey/decks/C_Deck_2nd_print.dek	391235
 plugins/Redemption/decks/D_Deck_1st_print.dek	http://www.redemptionquick.com/lackey/decks/D_Deck_1st_print.dek	379315
@@ -25,7 +25,7 @@ plugins/Redemption/packs/faith_fathers_tin.jpg	http://www.redemptionquick.com/la
 plugins/Redemption/packs/Kings.jpg	http://www.redemptionquick.com/lackey/packs/Kings.jpg	9633
 plugins/Redemption/packs/Patriarchs.jpg	http://www.redemptionquick.com/lackey/packs/Patriarchs.jpg	7073
 plugins/Redemption/packs/Priests.jpg	http://www.redemptionquick.com/lackey/packs/Priests.jpg	-11015
-plugins/Redemption/packs/prophecy_christ_mockup.jpg	http://www.redemptionquick.com/lackey/packs/prophecy_christ_mockup.jpg	0
+plugins/Redemption/packs/prophecy_christ_mockup.jpg	http://www.redemptionquick.com/lackey/packs/prophecy_christ_mockup.jpg	-1913
 plugins/Redemption/packs/Prophets.jpg	http://www.redemptionquick.com/lackey/packs/Prophets.jpg	-7390
 plugins/Redemption/packs/red_rock_ages_thumb.jpg	http://www.redemptionquick.com/lackey/packs/red_rock_ages_thumb.jpg	-702
 plugins/Redemption/packs/Starter_4th.jpg	http://www.redemptionquick.com/lackey/packs/starter_4th.jpg	-292289
@@ -36,8 +36,8 @@ plugins/Redemption/packs/TPC.jpg	http://www.redemptionquick.com/lackey/packs/TPC
 plugins/Redemption/packs/Unlimited.jpg	http://www.redemptionquick.com/lackey/packs/Unlimited.jpg	4514
 plugins/Redemption/packs/Warriors.jpg	http://www.redemptionquick.com/lackey/packs/Warriors.jpg	-8142
 plugins/Redemption/packs/Women.jpg	http://www.redemptionquick.com/lackey/packs/Women.jpg	1031
-plugins/Redemption/packs/packdefinitions.xml	http://www.redemptionquick.com/lackey/packs/packdefinitions.xml	3349456
-plugins/Redemption/sets/carddata.txt	http://www.redemptionquick.com/lackey/sets/carddata.txt	51882947
+plugins/Redemption/packs/packdefinitions.xml	http://www.redemptionquick.com/lackey/packs/packdefinitions.xml	3572668
+plugins/Redemption/sets/carddata.txt	http://www.redemptionquick.com/lackey/sets/carddata.txt	55020109
 plugins/Redemption/sounds/anb.wav	http://www.redemptionquick.com/lackey/sounds/anb.wav	-414625
 plugins/Redemption/sounds/wtf.wav	http://www.redemptionquick.com/lackey/sounds/wtf.wav	-47134
 CardGeneralURLs:

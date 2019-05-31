@@ -167,25 +167,79 @@
 </pack>
 
 <pack>
-  <packtitle>Priests</packtitle>
-  <packimage>Priests</packimage>
+  <packtitle>Prophecies of Christ</packtitle>
+  <packimage>prophecy_christ_mockup</packimage>
   <packformat>Standard</packformat>
   <packkind>Booster</packkind>
-  <packcommoncrit><field>Set</field><eval>IS</eval><data>Priests</data></packcommoncrit>
   <chance>
-    <prob>13</prob>
-    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit></kind>
-    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-    <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+    <prob>8</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Prophecies of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Prophecies of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Women</data></crit></kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+    <kind><qty>6</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
   </chance>
   <chance>
-    <prob>87</prob>
-    <kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit></kind>
-    <kind><qty>4</qty><crit><field>Rarity</field><eval>IS</eval><data>Uncommon</data></crit></kind>
-    <kind><qty>5</qty><crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit></kind>
+    <prob>84</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Prophecies of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Prophecies of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Women</data></crit></kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+    <kind><qty>6</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>2</prob>
+    <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Three Woes (RoJ)</data></crit></kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Prophecies of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Women</data></crit></kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+    <kind><qty>6</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>3</prob>
+    <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Cloud of Witnesses</data></crit></kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Prophecies of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Women</data></crit></kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+    <kind><qty>6</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>3</prob>
+    <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shipwreck (Promo)</data></crit></kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Prophecies of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Women</data></crit></kind>
+    <kind><qty>2</qty><crit><field>Set</field><eval>IS</eval><data>Rock of Ages</data></crit></kind>
+    <kind><qty>6</qty><crit><field>Set</field><eval>IS</eval><data>Faith of Our Fathers</data></crit></kind>
   </chance>
 </pack>
-
 <pack>
   <packtitle>Starter I</packtitle>
   <packimage>starter_4th</packimage>

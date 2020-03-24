@@ -1,4 +1,4 @@
-RedemptionCCG	03-20-20
+RedemptionCCG	03-23-20
 plugins/Redemption/bot.jpg	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/bot.jpg	-8286
 plugins/Redemption/cardback.jpg	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/cardback.jpg	-46944
 plugins/Redemption/plugininfo.txt	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/plugininfo.txt	340327

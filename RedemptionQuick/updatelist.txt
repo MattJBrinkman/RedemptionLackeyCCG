@@ -1,7 +1,7 @@
 RedemptionCCG	03-24-20
 plugins/RedemptionCCG/bot.jpg	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/bot.jpg	-8286
 plugins/RedemptionCCG/cardback.jpg	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/cardback.jpg	-46944
-plugins/RedemptionCCG/plugininfo.txt	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/plugininfo.txt	340327
+plugins/RedemptionCCG/plugininfo.txt	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/plugininfo.txt	340532
 plugins/RedemptionCCG/setlist.txt	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/setlist.txt	34612
 plugins/RedemptionCCG/decks/C_Deck_1st_print.dek	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/decks/C_Deck_1st_print.dek	391925
 plugins/RedemptionCCG/decks/C_Deck_2nd_print.dek	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/decks/C_Deck_2nd_print.dek	391235

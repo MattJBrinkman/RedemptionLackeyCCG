@@ -1,7 +1,7 @@
 <plugin>
 <pluginversion>1.3</pluginversion>
 
-<pluginname>Redemption</pluginname>
+<pluginname>RedemptionCCG</pluginname>
 
 <playerstat><label>Redeemed Souls</label><initialvalue>0</initialvalue></playerstat>
 

@@ -37,7 +37,7 @@ plugins/RedemptionCCGBeta/packs/Unlimited.jpg	https://raw.githubusercontent.com/
 plugins/RedemptionCCGBeta/packs/Warriors.jpg	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/packs/Warriors.jpg	-8142
 plugins/RedemptionCCGBeta/packs/Women.jpg	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/packs/Women.jpg	1031
 plugins/RedemptionCCGBeta/packs/packdefinitions.xml	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/packs/packdefinitions.xml	4316014
-plugins/RedemptionCCGBeta/sets/carddata.txt	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/sets/carddata.txt	70638072
+plugins/RedemptionCCGBeta/sets/carddata.txt	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/sets/carddata.txt	70639382
 plugins/RedemptionCCGBeta/sounds/anb.wav	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/sounds/anb.wav	-414625
 plugins/RedemptionCCGBeta/sounds/wtf.wav	https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/sounds/wtf.wav	-47134
 CardGeneralURLs:

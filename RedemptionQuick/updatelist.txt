@@ -41,4 +41,4 @@ plugins/Redemption/sets/carddata.txt	http://www.redemptionquick.com/lackey/sets/
 plugins/Redemption/sounds/anb.wav	http://www.redemptionquick.com/lackey/sounds/anb.wav	-414625
 plugins/Redemption/sounds/wtf.wav	http://www.redemptionquick.com/lackey/sounds/wtf.wav	-47134
 CardGeneralURLs:
-https://raw.githubusercontent.com/thejambi/RedemptionLackeyCCG/newlackey/RedemptionQuick/sets/setimages/general/
+http://www.redemptionquick.com/lackey/sets/setimages/general/

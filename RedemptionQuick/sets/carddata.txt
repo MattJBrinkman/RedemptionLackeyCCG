@@ -139,7 +139,7 @@ Angel of the Lord (I)	I	Angel_of_the_Lord_(I)	Dominant	Good					Discard an Evil 
 Angel of the Lord (J)	J	Angel_of_the_Lord_(J)	Dominant	Good					Discard an Evil Character.	Deck	Exodus 3:2	
 Angel of the Waters	Kings	Angel_of_the_Waters_(Ki)	Hero	Silver	6	8			Silver brigade Heroes cannot be taken prisoner this turn.	Uncommon	Revelation 16:5	
 Angel of Warning (Ap)	Apostles	Angel_of_Warning_(Ap)	Hero	Silver	4	4				Common	Matthew 2:13	
-Angel of Warning (TxP)	Thesaurus ex Preteritus	Angel_of_Warning_(TxP)	Hero	Silver	4	4		Generic	May look at opponent's hand, or search deck for a Site or a good Fortress and put it in play.	Fixed	Mattehw 2:13	
+Angel of Warning (TxP)	Thesaurus ex Preteritus	Angel_of_Warning_(TxP)	Hero	Silver	4	4		Generic	May look at opponent's hand, or search deck for a Site or a good Fortress and put it in play.	Fixed	Matthew 2:13	
 Angel with the Secret Name (RoA)	Rock of Ages	Angel_with_the_Secret_Name_(RA2)	Hero	Silver	X	X		X = # of Silver Heroes in play	Negate Sites. You may exchange this Hero with a gold Judge in your hand, deck, or discard pile. Samson has Site Access. Good Judges cards cannot be negated.	Fixed	Judges 13:18	
 Angel with the Secret Name (Wa)	Warriors	Angel_with_the_Secret_Name_(Wa)	Hero	Silver	*	*			Hero's abilities (*/*) are equal to the number of Silver Brigade heroes in play.	Common	Judges 13:18	
 Angelic Advice	Patriarchs	Angelic_Advice_(Pa)	GE	Silver					Shuffle all Artifact piles in play back into each players draw pile.  Active artifacts are shuffled but not negated.	Common	Judges 2:1	

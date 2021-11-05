@@ -77,6 +77,7 @@
 <cardfunction><label>Turn Over</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Meekify</label><kind>MAKERIGHT180DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>UnMeekify</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
 
 <definition><kind>REUSECARDIMAGES</kind></definition>

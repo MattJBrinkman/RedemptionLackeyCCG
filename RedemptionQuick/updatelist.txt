@@ -1,7 +1,7 @@
 Redemption	05-28-16
 plugins/Redemption/bot.jpg	http://www.redemptionquick.com/lackey/bot.jpg	-8286
 plugins/Redemption/cardback.jpg	http://www.redemptionquick.com/lackey/cardback.jpg	-46944
-plugins/Redemption/plugininfo.txt	http://www.redemptionquick.com/lackey/plugininfo.txt	362847
+plugins/Redemption/plugininfo.txt	http://www.redemptionquick.com/lackey/plugininfo.txt	384636
 plugins/Redemption/setlist.txt	http://www.redemptionquick.com/lackey/setlist.txt	34612
 plugins/Redemption/decks/C_Deck_1st_print.dek	http://www.redemptionquick.com/lackey/decks/C_Deck_1st_print.dek	391925
 plugins/Redemption/decks/C_Deck_2nd_print.dek	http://www.redemptionquick.com/lackey/decks/C_Deck_2nd_print.dek	391235
@@ -37,7 +37,7 @@ plugins/Redemption/packs/Unlimited.jpg	http://www.redemptionquick.com/lackey/pac
 plugins/Redemption/packs/Warriors.jpg	http://www.redemptionquick.com/lackey/packs/Warriors.jpg	-8142
 plugins/Redemption/packs/Women.jpg	http://www.redemptionquick.com/lackey/packs/Women.jpg	1031
 plugins/Redemption/packs/packdefinitions.xml	http://www.redemptionquick.com/lackey/packs/packdefinitions.xml	4316014
-plugins/Redemption/sets/carddata.txt	http://www.redemptionquick.com/lackey/sets/carddata.txt	73785489
+plugins/Redemption/sets/carddata.txt	http://www.redemptionquick.com/lackey/sets/carddata.txt	74573759
 plugins/Redemption/sounds/anb.wav	http://www.redemptionquick.com/lackey/sounds/anb.wav	-414625
 plugins/Redemption/sounds/wtf.wav	http://www.redemptionquick.com/lackey/sounds/wtf.wav	-47134
 CardGeneralURLs:

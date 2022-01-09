@@ -15,6 +15,11 @@
 	<shuffle>no</shuffle>
 	<gamezonetoloadto>Reserve</gamezonetoloadto>
 </deckzone>
+<deckzone>
+	<label>Tokens</label>
+	<shuffle>no</shuffle>
+	<gamezonetoloadto>Tokens</gamezonetoloadto>
+</deckzone>
 
 <gamezone>
 	<label>Hand</label>
@@ -45,6 +50,11 @@
 	<label>Removed</label>
 	<visibletoowner>yes</visibletoowner>
 	<visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Tokens</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
 </gamezone>
 
 <phase><label>Draw</label></phase>

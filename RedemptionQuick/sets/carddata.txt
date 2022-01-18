@@ -1278,7 +1278,7 @@ Fear of Danger	Angel Wars	Fear_of_Danger_(AW)	EE	Pale Green					Place this card 
 Fear of the Lord	Priests	Fear_of_the_Lord_(Pi)	GE	Gold	3	4			Discard an evil Enhancement or Curse in play.	Common	II Chronicles 19:9		Good	
 Fearfulness	Angel Wars	Fearfulness_(AW)	EE	Gray					Look at opponent's hand and select one good card in that hand.  Place that card beneath owner's draw pile.	Common	II Corinthians 7:5		Evil	
 Fearfulness (EC)	Early Church	Fearfulness_(EC)	EE	Orange				X=# of evil brigades in battle	Withdraw and paralyze X Heroes in battle for X turns. Cannot be negated if more than one Hero is in battle.	Common	II Corinthians 7:6		Evil	Rotation
-Fearless Traveler (Promo)	Promo	Fearless-Traveler_(Promo)	Hero	White	2	1		Generic, Involves Music, X=# of your Evil Characters	You may underdeck up to X cards from hand to look at an equal number of cards from top of deck. Add any number to hand, and topdeck and/or underdeck the rest. Cannot be interrupted.	Promo	Psalm 23:4		Good	
+Fearless Traveler (Promo)	Promo	Fearless-Traveler_(Promo)	Hero	White	2	1		Generic, Involves Music, X=# of your Evil Characters	You may underdeck up to X cards from hand to look at an equal number of cards from top of deck. Add any number to hand, and topdeck and/or underdeck the rest. Cannot be interrupted.	Promo	Psalm 23:4		Good	Rotation
 Fearlessness of Joshua (L)	Main	Fearlessness_of_Joshua_(UL)	GE	Gold	2	2				Common	Numbers 14:9		Good	
 Fearlessness of Joshua (UL)	Main Unlimited	Fearlessness_of_Joshua_(UL)	GE	Gold	2	2				Common	Numbers 14:9		Good	
 Feast of Atonement (LoC)	Lineage of Christ	LoC_137-Feast-of-Atonement	GE	Blue/Gold/Teal	4	2	Territory	Feast	Negate an evil or neutral card. If played in battle, you may banish an evil card from a discard pile to resurrect a meek Hero. Hero may band to that Hero.	Common	Ezra 3:5		Good	Rotation
@@ -2085,8 +2085,8 @@ Knocked to the Ground	Angel Wars	Knocked_to_the_Ground_(AW)	EE	Black	3	3			Disca
 Korah	Patriarchs	Korah_(Pa)	Evil Character	Brown	4	5			Evil banding enhancements cannot be prevented or negated this battle.	Rare	Numbers 16:4-5		Evil	
 Korah's Rebellion	Patriarchs	Korah's_Rebellion_(Pa)	EE	Brown	1	1			Interrupt the battle and remove all cards in battle from the game.	Rare	Numbers 16:31-32		Evil	
 Laban (F)	3rd Edition	Laban_(F)	Evil Character	Gray	9	9				Deck	Genesis 31:2-3		Evil	
-Laban (FoM Promo)	Promo	Laban-FoM-Promo	Evil Character	Gray/Pale Green	2	7		Syrian, Magician	You may exchange your Genesis female Hero with opponent's male human Hero for 7 turns. Limit twice per game.	Promo	Genesis 31:2-3		Evil	
-Laban (Promo)	Promo	Laban_(Promo)	Evil Character	Gray/Pale Green	2	7		Syrian/Aramean, Magician	You may exchange your female Genesis Hero with opponent's male, human Hero for 7 turns.  Limit twice per game.	Promo	Genesis 31:2-3		Evil	Rotation
+Laban (FoM Promo)	Promo	Laban-FoM-Promo	Evil Character	Gray/Pale Green	2	7		Syrian, Magician	You may exchange your Genesis female Hero with opponent's male human Hero for 7 turns. Limit twice per game.	Promo	Genesis 31:2-3		Evil	Rotation
+Laban (Promo)	Promo	Laban_(Promo)	Evil Character	Gray/Pale Green	2	7		Syrian/Aramean, Magician	You may exchange your female Genesis Hero with opponent's male, human Hero for 7 turns.  Limit twice per game.	Promo	Genesis 31:2-3		Evil	
 Lacking Prophecy	Prophecies of Christ	083-Lacking-Prophecy-R	Curse	Brown/Crimson/Gray					EE: Banish this card to shuffle all prophets. Cannot be negated. ART: Restrict all players with more than 4 cards in hand from playing Dominants.	Rare	Psalm 74:9		Evil	Rotation
 Lacking Sleep	Apostles	Lacking_Sleep_(Ap)	EE	Brown					Hero decreases 1/1 each turn until */1.  While Hero is Lacking Sleep, player must allow the opponent to play the first enhancement in battle.  Treat as a disease.	Rare	II Corinthians 6:5		Evil	
 Lahmi (I)	I	Lahmi_(I)	Evil Character	Black	10	10	Warrior	Philistine Giant		Deck	I Chronicles 20:5		Evil	Rotation

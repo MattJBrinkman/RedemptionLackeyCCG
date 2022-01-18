@@ -2085,8 +2085,8 @@ Knocked to the Ground	Angel Wars	Knocked_to_the_Ground_(AW)	EE	Black	3	3			Disca
 Korah	Patriarchs	Korah_(Pa)	Evil Character	Brown	4	5			Evil banding enhancements cannot be prevented or negated this battle.	Rare	Numbers 16:4-5		Evil	
 Korah's Rebellion	Patriarchs	Korah's_Rebellion_(Pa)	EE	Brown	1	1			Interrupt the battle and remove all cards in battle from the game.	Rare	Numbers 16:31-32		Evil	
 Laban (F)	3rd Edition	Laban_(F)	Evil Character	Gray	9	9				Deck	Genesis 31:2-3		Evil	
-Laban (FoM Promo)	Promo	Laban-FoM-Promo	Evil Character	Gray/Pale Green	2	7		Syrian, Magician	You may exchange your Genesis female Hero with opponent's male human Hero for 7 turns. Limit twice per game.	Promo	Genesis 31:2-3		Evil	
-Laban (Promo)	Promo	Laban_(Promo)	Evil Character	Gray/Pale Green	2	7		Syrian/Aramean, Magician	You may exchange your female Genesis Hero with opponent's male, human Hero for 7 turns.  Limit twice per game.	Promo	Genesis 31:2-3		Evil	Rotation
+Laban (FoM Promo)	Promo	Laban-FoM-Promo	Evil Character	Gray/Pale Green	2	7		Syrian, Magician	You may exchange your Genesis female Hero with opponent's male human Hero for 7 turns. Limit twice per game.	Promo	Genesis 31:2-3		Evil	Rotation
+Laban (Promo)	Promo	Laban_(Promo)	Evil Character	Gray/Pale Green	2	7		Syrian/Aramean, Magician	You may exchange your female Genesis Hero with opponent's male, human Hero for 7 turns.  Limit twice per game.	Promo	Genesis 31:2-3		Evil	
 Lacking Prophecy	Prophecies of Christ	083-Lacking-Prophecy-R	Curse	Brown/Crimson/Gray					EE: Banish this card to shuffle all prophets. Cannot be negated. ART: Restrict all players with more than 4 cards in hand from playing Dominants.	Rare	Psalm 74:9		Evil	Rotation
 Lacking Sleep	Apostles	Lacking_Sleep_(Ap)	EE	Brown					Hero decreases 1/1 each turn until */1.  While Hero is Lacking Sleep, player must allow the opponent to play the first enhancement in battle.  Treat as a disease.	Rare	II Corinthians 6:5		Evil	
 Lahmi (I)	I	Lahmi_(I)	Evil Character	Black	10	10	Warrior	Philistine Giant		Deck	I Chronicles 20:5		Evil	Rotation

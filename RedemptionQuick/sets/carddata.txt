@@ -1251,7 +1251,7 @@ Fallen Warrior (Wa)	Warriors	Fallen_Warrior_(Wa)	Evil Character	Black	2	2			This
 Falling Away	Women	Falling_Away_(Wo)	Dominant	Evil					Select any Redeemed Soul and return card to your Land of Bondage.  Character is treated as a Lost Soul.  Subtract the rescue from appropriate player's current score.	Common	Hebrews  6:4,6		Evil	
 Falling Away (CoW AB)	Cloud of Witnesses (Alternate Border)	CoW_AB_N02-Falling-Away-R	Dominant		-	-			Underdeck an angel, or convert a human Hero to an Evil Character in any brigade until end of turn.	Rare	Hebrews 6:4,6		Evil	Rotation
 Falling Away (CoW)	Cloud of Witnesses	Falling_Away_(CoW)	Dominant	Evil					Underdeck an angel, or convert a human Hero to an Evil Character in any brigade until end of turn.	Rare	Hebrews 6:4,6		Evil	Rotation
-Falling Away (Promo 2018)	Promo	Falling-Away-Borderless	Dominant	Evil					Underdeck an angel, or convert a human Hero to an Evil Character in any brigade until end of turn.	Promo	Hebrews 6:4,6		Evil	
+Falling Away (Promo 2018)	Promo	Falling-Away-Borderless	Dominant	Evil					Underdeck an angel, or convert a human Hero to an Evil Character in any brigade until end of turn.	Promo	Hebrews 6:4,6		Evil	Rotation
 False Dreams	Prophets	False_Dreams_(Pr)	EE	Gray					Next player may not make a rescue attempt his next turn.	Rare	Jeremiah 23:25		Evil	
 False Dreams (PoC)	Prophecies of Christ	131-False-Dreams	EE	Brown/Gray	-3	3	Territory		Place in territory: When played from hand and each upkeep, you may name a card and restrict players (except those who control an evil prophet) from playing that card from hand for one round.	Common	Jeremiah 23:25		Evil	Rotation
 False Leaders (PoC)	Prophecies of Christ	123-False-Leaders-R	Evil Character	Brown/Gray	2	2	Territory	Generic, Priest, Prophet	If an opponent uses a search ability, you may play an evil territory class Enhancement from Reserve (or discard pile if that player has hand advantage) on this card.	Rare	Jeremiah 6:13		Evil	Rotation
@@ -1565,8 +1565,8 @@ Hammer of Heaven	Angel Wars	Hammer_of_Heaven_(AW)	GE	Silver	3	2	Weapon		Holder m
 Hamor	Fall of Man	042-Hamor	Evil Character	Black	8	7	Warrior	Canaanite King	May band to Shechem. You may choose Jacob to attack (limit once per game). Cannot be interrupted.	Common	Genesis 34:6		Evil	Rotation
 Hananiah (LoC)	Lineage of Christ	LoC_109-Hananiah-R	Hero	Red	8	11	Warrior		If a purple king is in play, you may take or equip an O.T. red weapon from deck. May band to an O.T. red warrior. Cannot be prevented by an evil card.	Rare	II Chronicles 26:11		Good	Rotation
 Hannah	Prophecies of Christ	057-Hannah	Hero	White	1	1		Musician, X = # of evil brigades revealed	You may reveal opponent’s hand: Draw X. Protect Lost Souls from evil cards. You may reserve your Samuel to negate opponent’s evil and neutral cards.	Common	I Samuel 1:20		Good	Rotation
-Hannah (L)	Main	Hannah_(UL)	Hero	Blue	4	4				Uncommon	Haggai 2:9		Good	
-Hannah (UL)	Main Unlimited	Hannah_(UL)	Hero	Blue	4	4				Uncommon	Joshua 10:11		Good	
+Hannah (L)	Main	Hannah_(UL)	Hero	Blue	4	4				Uncommon	I Samuel 1:11		Good	
+Hannah (UL)	Main Unlimited	Hannah_(UL)	Hero	Blue	4	4				Uncommon	I Samuel 1:11		Good	
 Harbingers	Fall of Man	034-Harbingers	Hero	Silver	10	2	Warrior	Generic	You may look at a hand or a Reserve. Protect Genesis human Heroes from discard abilities. You may release a captured character or Harbingers may band to Lot.	Common	Genesis 19:13		Good	Rotation
 Hard Bondage	3rd Edition	Hard_Bondage_(F)	EE	Gray	2	2			Capture a human Hero in territory.	Deck	II Kings 17:6		Evil	
 Hard Bondage (FoM)	Fall of Man	053-Hard-Bondage	EE	Gold	2	2		X = # of captured Heroes in your territory	Capture a Hero. If used by an Exodus Egyptian, discard the top X cards of opponent's deck (limit 3) and decrease opponent's Heroes X/X.	Common	Exodus 1:14		Evil	Rotation

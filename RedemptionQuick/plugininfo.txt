@@ -15,6 +15,11 @@
 	<shuffle>no</shuffle>
 	<gamezonetoloadto>Reserve</gamezonetoloadto>
 </deckzone>
+<deckzone>
+	<label>Tokens</label>
+	<shuffle>no</shuffle>
+	<gamezonetoloadto>Tokens</gamezonetoloadto>
+</deckzone>
 
 <gamezone>
 	<label>Hand</label>
@@ -46,6 +51,11 @@
 	<visibletoowner>yes</visibletoowner>
 	<visibletoothers>yes</visibletoothers>
 </gamezone>
+<gamezone>
+	<label>Tokens</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
 
 <phase><label>Draw</label></phase>
 <phase><label>Upkeep</label></phase>
@@ -76,6 +86,8 @@
 <cardfunction><label>Edit Note</label><kind>EDITNOTE</kind><includeasbutton>yes</includeasbutton><PositionX>.4</PositionX><PositionY>.95</PositionY></cardfunction>
 <cardfunction><label>Turn Over</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Take Control</label><kind>CHANGEOWNER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Meekify</label><kind>MAKERIGHT180DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>UnMeekify</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Rotate Upside-Down</label><kind>MAKERIGHT180DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Rotate Normal</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>

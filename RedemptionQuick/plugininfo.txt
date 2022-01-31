@@ -1,7 +1,7 @@
 <plugin>
 <pluginversion>1.3</pluginversion>
 
-<pluginname>Redemption</pluginname>
+<pluginname>RedemptionCCGBeta</pluginname>
 
 <playerstat><label>Redeemed Souls</label><initialvalue>0</initialvalue></playerstat>
 
@@ -89,6 +89,8 @@
 <cardfunction><label>Meekify</label><kind>MAKERIGHT180DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>UnMeekify</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Rotate Upside-Down</label><kind>MAKERIGHT180DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Rotate Normal</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
 
 <definition><kind>REUSECARDIMAGES</kind></definition>
 <definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>

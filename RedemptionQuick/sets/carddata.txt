@@ -1082,7 +1082,7 @@ Emperor Tiberius (J)	J	Emperor_Tiberius_(J)	Evil Character	Gray	10	11	Warrior	Ro
 Emperor Vitellius	Rock of Ages	Emperor_Vitellius_(RA)	Evil Character	Gray	10	1	Warrior	N.T. Roman Emperor, Fought Earthly Battle, X = Number of Good Brigades opponent has in play	You may draw X cards. Cannot be negated by a good card.	Fixed	Josephus 11		Evil	
 Enchanter (Pr)	Prophets	Enchanter_(Pr)	Evil Character	Brown	6	7				Uncommon	Deuteronomy 18:10		Evil	
 Enchanter (TxP)	Thesaurus ex Preteritus	Enchanter_(TxP)	Evil Character	Pale Green	6	7		Generic, Magician	May discard a pale green or orange Enhancement from hand to return a Hero in battle to owner's territory.	Fixed	Deuteronomy 18:10		Evil	
-Endless Treasures	Prophecies of Christ	086-Endless-Treasures-R	Artifact						You may underdeck this card to take or activate an idol or Curse from deck or Reserve. If you do, you may take an evil weapon from discard pile or draw 2.	Rare	Isaiah 2:7		Neutral	Rotation
+Endless Treasures (Banned)	Prophecies of Christ	086-Endless-Treasures-R	Artifact						You may underdeck this card to take or activate an idol or Curse from deck or Reserve. If you do, you may take an evil weapon from discard pile or draw 2.	Rare	Isaiah 2:7		Neutral	Banned
 Endurance (L)	Main	Endurance_(UL)	GE	Green	2	2				Common	Matthew 10:22		Good	
 Endurance (UL)	Main Unlimited	Endurance_(UL)	GE	Green	2	2				Common	Matthew 10:22		Good	
 Endurance of Job	Persecuted Church	Endurance_of_Job_(PC)	GE	Clay/Blue	X	X	Territory	X=# of evil brigades on opponent's cards	Opponent must underdeck an evil card from hand or territory. If used by Job, opponent must underdeck X evil cards from hand and/or territory instead	Common	James 5:11		Good	Rotation
@@ -4266,3 +4266,4 @@ Lost Soul (The First)	I/J+	Lost-Soul-The-First-Luke_13_30-IJ	Lost Soul	-	-	-	-	"
 New Jerusalem (I/J+)	I/J+	New-Jerusalem-IJ	Dominant	Good	-	-	-	-	Copy the last good Dominant played during this phase.	-	Revelation 3:12	-	Good	Rotation
 Philistine Outpost (I/J+)	I/J+	Philistine-Outpost-IJ	Fortress	Evil	-	-	-	-	If attacked, you may play an evil Philistine from deck or Reserve. At any time, you may discard this card to resurrect an evil Philistine.	-	I Samuel 14:12	-	Evil	Rotation
 The New Covenant (I/J+)	I/J+	The-New-Covenant-IJ	Covenant	Purple	4	3	-	-	GE: Hero may band to any number of N.T. Heroes. ART: You may take a good Gospel Enhancement from deck or Reserve.	-	Mark 14:24	-	Good	Rotation
+Endless Treasures (Errata)	Prophecies of Christ	Endless-Treasures-R-errata	Artifact	-	-	-	-	-	You may underdeck this card to take or activate an idol or Curse from deck or Reserve. If you do, you may take an evil weapon from discard pile.	R	Isaiah 2:7	-	Neutral	Rotation

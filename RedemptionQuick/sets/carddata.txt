@@ -4267,3 +4267,6 @@ New Jerusalem (I/J+)	I/J+	New-Jerusalem-IJ	Dominant	Good	-	-	-	-	Copy the last g
 Philistine Outpost (I/J+)	I/J+	Philistine-Outpost-IJ	Fortress	Evil	-	-	-	-	If attacked, you may play an evil Philistine from deck or Reserve. At any time, you may discard this card to resurrect an evil Philistine.	-	I Samuel 14:12	-	Evil	Rotation
 The New Covenant (I/J+)	I/J+	The-New-Covenant-IJ	Covenant	Purple	4	3	-	-	GE: Hero may band to any number of N.T. Heroes. ART: You may take a good Gospel Enhancement from deck or Reserve.	-	Mark 14:24	-	Good	Rotation
 Endless Treasures (Errata)	Prophecies of Christ	Endless-Treasures-R-errata	Artifact	-	-	-	-	-	You may underdeck this card to take or activate an idol or Curse from deck or Reserve. If you do, you may take an evil weapon from discard pile.	R	Isaiah 2:7	-	Neutral	Rotation
+Follower Token	Gospel of Christ Token	Follower-Token.jpg	Hero Token	Clay	6	8	-	Generic, Has the selected church identifier	Meek (has no special ability)	Token	Matthew 16:18	-	Good	Rotation
+Lost Soul Token ("Harvest")	Gospel of Christ Token	Lost-Soul-Harvest-Token.jpg	Lost Soul Token	-	-	-	-	"Harvest"	Meek (has no special ability)	Token	John 4:35	-	Neutral	Rotation
+Proselyte Token	Gospel of Christ Token	Proselyte-Token.jpg	Evil Character Token	Gray	2	2	-	Generic, Pharisee	Meek (has no special ability)	Token	Matthew 23:15	-	Evil	Rotation

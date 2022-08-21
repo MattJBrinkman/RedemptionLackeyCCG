@@ -2993,7 +2993,7 @@ Providing Angel	Patriarchs	Providing_Angel_(Pa)	Hero	Silver	3	5			Holder may tak
 Provisions	Kings	Provisions_(Ki)	GE	Green					Set Hero aside for 2 turns.  On return holder may draw 2 cards and may choose the Evil Character his [opponent] uses to block Hero's next rescue attempt.	Uncommon	I Samuel 17:20		Good	
 Provoked	Cloud of Witnesses	Provoked_(CoW)	EE	Brown	2	2		X = # of opponent's good brigades	Decrease a Hero X/X and increase an Evil Character X/X to draw X. Cannot be prevented.	Common	Hebrews 3:7-8 (Psalm 95:7-8)		Evil	Rotation
 Provoked (CoW AB)	Cloud of Witnesses (Alternate Border)	CoW_AB_N111-Provoked	EE	Brown	2	2		X = # of opponent’s good brigades	Decrease a Hero X/X and increase an Evil Character X/X to draw X. Cannot be prevented.	Common	Hebrews 3:7-8 (Psalm 95:7-8)		Evil	Rotation
-Purging Evil	Fall of Man	128-Purging-Evil	GE	Purple/Teal	2	3		X = # of idols and Curses discarded by this card	Negate and discard all idols and Curses. Banish an Evil Character. If used by a Solomon's Temple Priest or King Josiah, you may draw X.	Common	II Kigns 23:4		Good	Rotation
+Purging Evil	Fall of Man	128-Purging-Evil	GE	Purple/Teal	2	3		X = # of idols and Curses discarded by this card	Negate and discard all idols and Curses. Banish an Evil Character. If used by a Solomon's Temple Priest or King Josiah, you may draw X.	Common	II Kings 23:4		Good	Rotation
 Purifying the Unclean	Priests	Purifying_the_Unclean_(Pi)	GE	Teal	3	4			Heal a Hero in play or in a set-aside area.  Discard all evil cards placed on that Hero.  Cannot be negated.	Common	Leviticus 15:30		Good	
 Purity of Enoch (D)	2nd Edition	Purity_of_Enoch_(DU)	GE	White	3	2				Deck	Genesis 5:24		Good	
 Purity of Enoch (L)	Main	Purity_of_Enoch_(UL)	GE	White	2	2				Common	Genesis 5:24		Good	

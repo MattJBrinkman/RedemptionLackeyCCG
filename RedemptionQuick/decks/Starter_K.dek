@@ -1,0 +1,65 @@
+<deck version="2.0">
+    <meta>
+		<game>Redemption</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="K1-Son-of-God">Son of God [K]</name><set>K</set></card>
+        <card><name id="K2-Lord-of-Armies">Lord of Armies [K]</name><set>K</set></card>
+        <card><name id="K3-Murderous-Command">Murderous Command [K]</name><set>K</set></card>
+        <card><name id="K4-Davids-Harp">David's Harp [K]</name><set>K</set></card>
+        <card><name id="K5-Davids-Tent">David's Tent [K]</name><set>K</set></card>
+        <card><name id="K6-Lost-Soul-Dread-Exodus-15_16">Lost Soul "Dread" [Exodus 15:16 - K]</name><set>K</set></card>
+        <card><name id="K7-Lost-Soul-Exodus-15_24">Lost Soul "Grumbled" [Exodus 15:24 - K]</name><set>K</set></card>
+        <card><name id="K8-Lost-Soul-Exodus-21_8">Lost Soul "Displeased" [Exodus 21:8 - K]</name><set>K</set></card>
+        <card><name id="K9-Lost-Soul-Exodus-33_3">Lost Soul "Obstinate" [Exodus 33:3 - K]</name><set>K</set></card>
+        <card><name id="K10-Lost-Soul-Exodus-10_10">Lost Soul [Exodus 10:10 - K]</name><set>K</set></card>
+        <card><name id="K11-Lost-Soul-Exodus-11_5">Lost Soul [Exodus 11:5- K]</name><set>K</set></card>
+        <card><name id="K12-Lost-Soul-Exodus-12_33">Lost Soul [Exodus 12:33 - K]</name><set>K</set></card>
+        <card><name id="K13-Abandoned">Abandoned [K]</name><set>K</set></card>
+        <card><name id="K14-David-Giant-Slayer">David, Giant Slayer [K]</name><set>K</set></card>
+        <card><name id="K15-Counsel-for-the-King">Counsel for the King [K]</name><set>K</set></card>
+        <card><name id="K16-Samuel">Samuel, the Anointer [K]</name><set>K</set></card>
+        <card><name id="K17-Company-of-Prophets">Company of Prophets [K]</name><set>K</set></card>
+        <card><name id="K18-Procession-of-Prophets">Procession of Prophets [K]</name><set>K</set></card>
+        <card><name id="K19-Gad">Gad, David's Chosen [K]</name><set>K</set></card>
+        <card><name id="K20-The-Prophet-of-God">The Prophet of God [K]</name><set>K</set></card>
+        <card><name id="K21-Hannah">Hannah [K]</name><set>K</set></card>
+        <card><name id="K22-You-Will-Be-Well">You Will Be Well [K]</name><set>K</set></card>
+        <card><name id="K23-Davids-Music">David's Music [K]</name><set>K</set></card>
+        <card><name id="K24-Samuels-Edict">Samuel's Edict [K]</name><set>K</set></card>
+        <card><name id="K25-Consecration">Consecration [K]</name><set>K</set></card>
+        <card><name id="K26-Jonathan">Jonathan, the Devoted [K]</name><set>K</set></card>
+        <card><name id="K27-Abiathar">Abiathar [K]</name><set>K</set></card>
+        <card><name id="K28-Abishai">Abishai [K]</name><set>K</set></card>
+        <card><name id="K29-Abigail">Abigail [K]</name><set>K</set></card>
+        <card><name id="K30-Davids-Messengers">David's Messengers [K]</name><set>K</set></card>
+        <card><name id="K31-Davids-Victory">David's Victory [K]</name><set>K</set></card>
+        <card><name id="K32-Davids-Prayer">David's Prayer [K]</name><set>K</set></card>
+        <card><name id="K33-Bravery-of-David">Bravery of David [K]</name><set>K</set></card>
+        <card><name id="K34-Given-to-Israel">Given to Israel [K]</name><set>K</set></card>
+        <card><name id="K35-Pharaoh-Ramses-II">Pharaoh, Ramses II [K]</name><set>K</set></card>
+        <card><name id="K36-Abusive-Taskmaster">Abusive Taskmaster [K]</name><set>K</set></card>
+        <card><name id="K37-Egyptian-Horsemen">Egyptian Horsemen [K]</name><set>K</set></card>
+        <card><name id="K38-Egyptian-Charioteers">Egyptian Charioteers [K]</name><set>K</set></card>
+        <card><name id="K39-Egyptian-Archer">Egyptian Archer [K]</name><set>K</set></card>
+        <card><name id="K40-Egyptian-Soothsayers">Egyptian Soothsayers [K]</name><set>K</set></card>
+        <card><name id="K41-Pharaohs-Army">Pharaoh's Army [K]</name><set>K</set></card>
+        <card><name id="K42-The-Murdering-Pharaoh">The Murdering Pharaoh [K]</name><set>K</set></card>
+        <card><name id="K43-Pharaohs-Officials">Pharaoh's Officials [K]</name><set>K</set></card>
+        <card><name id="K44-Divination">Divination [K]</name><set>K</set></card>
+        <card><name id="K45-Moses-Kills-Egyptian">Moses kills Egyptian [K]</name><set>K</set></card>
+        <card><name id="K46-Thrown-into-the-Nile">Thrown into the Nile [K]</name><set>K</set></card>
+        <card><name id="K47-Gathering-Soothsayers">Gathering Soothsayers [K]</name><set>K</set></card>
+        <card><name id="K48-Egyptian-Spear">Egyptian Spear [K]</name><set>K</set></card>
+        <card><name id="K49-Make-Bricks">Make Bricks! [K]</name><set>K</set></card>
+        <card><name id="K50-Ruthless">Ruthless [K]</name><set>K</set></card>
+	</superzone>
+    <superzone name="Reserve">
+        <card><name id="K51-Covenant-with-David">Covenant with David [K]</name><set>K</set></card>
+        <card><name id="K52-Pharaohs-Curse">Pharaoh's Curse</name><set>K</set></card>
+        <card><name id="K53-Davids-Spies">David's Spies [K]</name><set>K</set></card>
+        <card><name id="K54-Loyalty-to-David">Loyalty to David [K]</name><set>K</set></card>
+        <card><name id="K55-Subjugating-Egyptians">Subjugating Egyptians [K]</name><set>K</set></card>
+        <card><name id="K56-Egyptian-Chariots">Egyptian Chariots [K]</name><set>K</set></card>
+    </superzone>
+</deck>

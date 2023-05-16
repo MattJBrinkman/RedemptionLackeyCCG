@@ -1231,7 +1231,7 @@ Faith of Samuel (CoW AB)	Cloud of Witnesses (Alternate Border)	CoW_AB_N51-Faith-
 Faith of Sarah	Cloud of Witnesses	Faith_of_Sarah_(CoW)	GE	Blue/Clay	1	1	Territory, Cloud		may search deck or discard pile for a Genesis or cloud Hero.	Common	Hebrews 11:11		Good	Rotation
 Faith of Sarah (CoW AB)	Cloud of Witnesses (Alternate Border)	CoW_AB_N59-Faith-of-Sarah	GE	Blue/Clay	1	1	Territory, Cloud		You may search deck or discard pile for a Genesis or cloud Hero.	Common	Hebrews 11:11		Good	Rotation
 Faith Shared	10th Anniversary	Faith_Shared_(H)	GE	White	2	1			If used by a female hero, ignore all crimson and black brigade evil characters.	Deck	III John 1:5		Good	
-Faith Unbowed (LoC)	Lineage of Christ	LoC_136-Faith-Unbowed-R	GE	Silver/White	4	1	Territory		Interrupt the battle. O.T. Heroes in battle ignore Evil Characters. If used by a Daniel Hero, you may banish this card to protect neutral cards and your good cards from evil cards this turn.	Rare	Daniel 3:18		Good	Rotation
+Faith Unbowed (LoC)	Lineage of Christ	LoC_136-Faith-Unbowed-R	GE	Silver/White	4	1	Territory		Interrupt the battle. Withdraw all Evil Characters. If used by a Daniel Hero, you may banish this card to protect neutral cards and your good cards from evil cards this turn.	Rare	Daniel 3:18		Good	Rotation
 Faithful Priest	Early Church	Faithful_Priest_(EC)	Hero	Clay/Teal	3	2	Territory	X = # of Jerusalem Heroes in Play	If your lone Jerusalem Hero rescues a Lost Soul, you may underdeck up to X cards from ahnd to draw an equal number of cards (Limit 3).	Common	Acts 6:7		Good	Rotation
 Faithful Servant ( C)	2nd Edition	Faithful_Servant_(CU)	Hero	Green	6	5				Deck	Matthew 25:21		Good	
 Faithful Servant (CL)	Main Unlimited	Faithful_Servant_(UL)	Hero	Green	4	4				Uncommon	Matthew 25:21		Good	

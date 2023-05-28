@@ -1,0 +1,65 @@
+<deck version="2.0">    
+    <meta>
+		<game>Redemption</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="L1-Son-of-God">Son of God [L]</name><set>L</set></card>
+        <card><name id="L2-Pillar-of-Fire">Pillar of Fire [L]</name><set>L</set></card>
+        <card><name id="L3-Warrior-Overtaken">Warrior Overtaken [L]</name><set>L</set></card>
+        <card><name id="L4-Altar-of-Burnt-Offering">Altar of Burnt Offering [L]</name><set>L</set></card>
+        <card><name id="L5-Wilderness-of-Sinai">Wilderness of Sinai [L]</name><set>L</set></card>
+        <card><name id="L6-Lost-Soul-ISamuel-5_12">Lost Soul "Outcry" [I Samuel 5:12 - L]</name><set>L</set></card>
+        <card><name id="L7-Lost-Soul-ISamuel-25_7">Lost Soul "Shepherds" [I Samuel 25:7 - L]</name><set>L</set></card>
+        <card><name id="L8-Lost-Soul-ISamuel-30_3">Lost Soul "Behold" [I Samuel 30:3 - L]</name><set>L</set></card>
+        <card><name id="L9-Lost-Soul-ISamuel-2_29">Lost Soul "Fat" [I Samuel 2:29 - L]</name><set>L</set></card>
+        <card><name id="L10-Lost-Soul-ISamuel-2_23">Lost Soul [I Samuel 2:23 - L]</name><set>L</set></card>
+        <card><name id="L11-Lost-Soul-ISamuel-30_13">Lost Soul [I Samuel 30:13 - L]</name><set>L</set></card>
+        <card><name id="L12-Lost-Soul-IISamuel-23_6">Lost Soul [II Samuel 23:6 - L]</name><set>L</set></card>
+        <card><name id="L13-Evade">Evade [L]</name><set>L</set></card>
+        <card><name id="L14-Moses">Moses, the Deliverer [L]</name><set>L</set></card>
+        <card><name id="L15-Consecration-of-Priests">Consecration of Priests [L]</name><set>L</set></card>
+        <card><name id="L16-Eleazar">Eleazar, Son of Aaron [L]</name><set>L</set></card>
+        <card><name id="L17-Generations-of-Priests">Generations of Priests [L]</name><set>L</set></card>
+        <card><name id="L18-Ordained-Priests">Ordained Priests [L]</name><set>L</set></card>
+        <card><name id="L19-Jethro">Jethro, Priest of Midian [L]</name><set>L</set></card>
+        <card><name id="L20-Aaron">Aaron, Moses' Brother [L]</name><set>L</set></card>
+        <card><name id="L21-Ithamar">Ithamar, Son of Aaron [L]</name><set>L</set></card>
+        <card><name id="L22-Observe-the-Sabbath">Observe the Sabbath [L]</name><set>L</set></card>
+        <card><name id="L23-Burning-Incense">Burning Incense [L]</name><set>L</set></card>
+        <card><name id="L24-Slain-by-Levites">Slain by Levites [L]</name><set>L</set></card>
+        <card><name id="L25-Food-for-the-Priests">Food for the Priests [L]</name><set>L</set></card>
+        <card><name id="L26-The-Tribal-Elders">The Tribal Elders [L]</name><set>L</set></card>
+        <card><name id="L27-Miriam">Miriam [L]</name><set>L</set></card>
+        <card><name id="L28-The-Israelite-Foremen">The Israelite Foremen [L]</name><set>L</set></card>
+        <card><name id="L29-Joshua">Joshua, the Faithful [L]</name><set>L</set></card>
+        <card><name id="L30-Daughters-of-Midian">Daughters of Midian [L]</name><set>L</set></card>
+        <card><name id="L31-Swept-into-the-Sea">Swept into the Sea [L]</name><set>L</set></card>
+        <card><name id="L32-Moshe">Moshe [L]</name><set>L</set></card>
+        <card><name id="L33-Provisions-in-the-Desert">Provisions in the Desert [L]</name><set>L</set></card>
+        <card><name id="L34-Burning-Bush">Burning Bush [L]</name><set>L</set></card>
+        <card><name id="L35-Goliath">Goliath, Fear Bringer [L]</name><set>L</set></card>
+        <card><name id="L36-Soldiers-at-Aphek">Soldiers at Aphek [L]</name><set>L</set></card>
+        <card><name id="L37-Philistine-Raiders">Philistine Raiders [L]</name><set>L</set></card>
+        <card><name id="L38-Philistine-Charioteers">Philistine Charioteers [L]</name><set>L</set></card>
+        <card><name id="L39-Philistine-Archer">Philistine Archer [L]</name><set>L</set></card>
+        <card><name id="L40-Priests-of-Dagon">Priests of Dagon [L]</name><set>L</set></card>
+        <card><name id="L41-Philistine-Army">Philistine Army [L]</name><set>L</set></card>
+        <card><name id="L42-King-Achish">King Achish [L]</name><set>L</set></card>
+        <card><name id="L43-Philistine-Governors">Philistine Governors [L]</name><set>L</set></card>
+        <card><name id="L44-Taking-the-Ark">Taking the Ark [L]</name><set>L</set></card>
+        <card><name id="L45-Taunting-the-Lord">Taunting the Lord [L]</name><set>L</set></card>
+        <card><name id="L46-Quaking-with-Fear">Quaking with Fear [L]</name><set>L</set></card>
+        <card><name id="L47-Gathering-Armies">Gathering the Armies [L]</name><set>L</set></card>
+        <card><name id="L48-Goliaths-Spear">Goliath's Spear [L]</name><set>L</set></card>
+        <card><name id="L49-No-Blacksmiths-in-Israel">No Blacksmiths in Israel [L]</name><set>L</set></card>
+        <card><name id="L50-Displeased-Philistines">Displeased Philistines [L]</name><set>L</set></card>
+	</superzone>
+    <superzone name="Reserve">
+        <card><name id="L51-Covenant-with-Moses">Covenant with Moses [L]</name><set>L</set></card>
+        <card><name id="L52-Goliaths-Curse">Goliath's Curse [L]</name><set>L</set></card>
+        <card><name id="L53-Women-of-Israel">Women of Israel [L]</name><set>L</set></card>
+        <card><name id="L54-Water-from-a-Rock">Water from a Rock [L]</name><set>L</set></card>
+        <card><name id="L55-Terrifying-Philistines">Terrifying Philistines [L]</name><set>L</set></card>
+        <card><name id="L56-Philistine-Chariots">Philistine Chariots [L]</name><set>L</set></card>
+    </superzone>
+</deck>

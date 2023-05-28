@@ -47,7 +47,7 @@
 	<visibletoothers>no</visibletoothers>
 </gamezone>
 <gamezone>
-	<label>Removed</label>
+	<label>Banished</label>
 	<visibletoowner>yes</visibletoowner>
 	<visibletoothers>yes</visibletoothers>
 </gamezone>

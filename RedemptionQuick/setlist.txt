@@ -4,7 +4,7 @@ carddata.txt
 1
 Standard
 
-29
+31
 10th Anniversary
 1st Edition
 1st Edition Unlimited
@@ -20,7 +20,9 @@ Faith of Our Fathers
 Fall of Man
 I
 J
+K Starter
 Kings
+L Starter
 Main
 Main Unlimited
 Patriarchs

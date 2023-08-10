@@ -1330,5 +1330,318 @@
     </kind>
   </chance>
 </pack>
-
+<pack>
+  <packtitle>Gospel of Christ</packtitle>
+  <packimage>GoC</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <chance>
+    <prob>1</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Legacy Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind>
+      <qty>5</qty>
+      <crit><field>Set</field><eval>IS</eval><data>I</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>1</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Legacy Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind>
+      <qty>5</qty>
+      <crit><field>Set</field><eval>IS</eval><data>J</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>4</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind>
+      <qty>5</qty>
+      <crit><field>Set</field><eval>IS</eval><data>I</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>4</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind>
+      <qty>5</qty>
+      <crit><field>Set</field><eval>IS</eval><data>J</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>7</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Legacy Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind>
+      <qty>5</qty>
+      <crit><field>Set</field><eval>IS</eval><data>I</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>7</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Legacy Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind>
+      <qty>5</qty>
+      <crit><field>Set</field><eval>IS</eval><data>J</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>38</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind>
+      <qty>5</qty>
+      <crit><field>Set</field><eval>IS</eval><data>I</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>38</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>4</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind>
+      <qty>5</qty>
+      <crit><field>Set</field><eval>IS</eval><data>J</data></crit>
+    </kind>
+  </chance>
+</pack>
+<pack>
+  <packtitle>Gospel of Christ Super Pack!</packtitle>
+  <packimage>GoC</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <chance>
+    <prob>4</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Legacy Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>7</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>13</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>8</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>20</prob>
+    <kind>
+      <qty>2</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Legacy Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>7</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>63</prob>
+    <kind>
+      <qty>2</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>8</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Gospel of Christ</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+  </chance>
+</pack>
+<pack>
+  <packtitle>Israel's Rebellion</packtitle>
+  <packimage>IR</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <chance>
+    <prob>5</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Israel's Rebellion</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Israel's Rebellion</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind>
+      <qty>5</qty>
+      <crit><field>Set</field><eval>IS</eval><data>I</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>5</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Israel's Rebellion</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Israel's Rebellion</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind>
+      <qty>5</qty>
+      <crit><field>Set</field><eval>IS</eval><data>J</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>45</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Israel's Rebellion</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Israel's Rebellion</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind>
+      <qty>5</qty>
+      <crit><field>Set</field><eval>IS</eval><data>I</data></crit>
+    </kind>
+  </chance>
+  <chance>
+    <prob>45</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Israel's Rebellion</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+      <crit><field>Set</field><eval>IS</eval><data>Israel's Rebellion</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind>
+      <qty>5</qty>
+      <crit><field>Set</field><eval>IS</eval><data>J</data></crit>
+    </kind>
+  </chance>
+</pack>
 </packdefinitions>

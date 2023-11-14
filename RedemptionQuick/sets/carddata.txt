@@ -4812,7 +4812,7 @@ Lost Soul "Punisher" [Jeremiah 17:9 - RR] (Roots)	Roots	020-Lost-Soul-Punisher.j
 Lost Soul "Wanderer" [Ezekiel 34:6 - RR] (Roots)	Roots	021-Lost-Soul-Wanderer.jpg	Lost Soul	-	-	-		["Wanderer"]	During your turn, if you have not attacked, you may exchange this card with a different Lost Soul in opponent’s territory.	-	Ezekiel 34:6		Neutral	Rotation
 I Am Creator (Roots)	Roots	022-I-Am-Creator.jpg	Covenant	Blue	3	3		[X = # of cards shuffled from that player's hand by this card]	GE: Bounce all evil cards in battle. / A: Draw 1 and discard this card. If you do, each player may shuffle their hand to draw X.	-	Genesis 1:1		Good	Rotation
 Blessings for Levi (Roots)	Roots	023-Blessings-for-Levi.jpg	Covenant	Clay	2	5		Based on Prophecy	GE: You may exchange this card with an O.T. clay Enhancement from deck. / A: If your O.T. priest rescues a Lost Soul, you may underdeck an evil card.	-	Malachi 2:4		Good	Rotation
-I Am Sustainer (Roots)	Roots	024-I-Am-Sustainer.jpg	Covenant	Good Gold	2	5		-	GE: Banish an evil card. / A: Your single-brigade O.T. Heroes cannot be prevented in battle.	-	Nehemiah 1:5		Good	Rotation
+I Am Sustainer (Roots)	Roots	024-I-Am-Sustainer.jpg	Covenant	Gold	2	5		-	GE: Banish an evil card. / A: Your single-brigade O.T. Heroes cannot be prevented in battle.	-	Nehemiah 1:5		Good	Rotation
 I Am Redemption (Roots)	Roots	025-I-Am-Redemption.jpg	Covenant	Silver	3	4		-	GE: Convert all evil humans in battle. Discard all evil non-humans in battle. / A: Negate Lost Souls. Release all captured Heroes.	-	Ephesians 1:7		Good	Rotation
 Pact with Death (Roots)	Roots	026-Pact-with-Death.jpg	Curse	Brown/Pale Green	2	4		-	EE: Discard all cards in battle. / A: Negate characters. Prevent Enhancements unless a character is opposed.	-	Isaiah 28:15		Evil	Rotation
 Captured Ark (Roots)	Roots	027-Captured-Ark.jpg	Curse	Black	1	5	Territory	-	EE: Take an Artifact. / A: Negate and underdeck an Artifact controlled by each opponent.	-	I Samuel 4:22		Evil	Rotation
@@ -4854,21 +4854,21 @@ Zadok Anoints Solomon (Roots)	Roots	062-Zadok-Anoints-Solomon.jpg	GE	Clay	3	2		-
 Holy Priesthood (Roots)	Roots	063-Holy-Priesthood.jpg	GE	Clay	2	5		Christ/Jesus in Title/Scripture	Negate an evil or neutral card. Banish a Curse or an evil Enhancement. Cannot be negated if used by a N.T. Hero.	-	I Peter 2:5		Good	Rotation
 Holy Unto the Lord (Roots)	Roots	064-Holy-Unto-the-Lord.jpg	GE	Clay	2	1		-	If used by a priest, shuffle all Evil Characters.	-	Ezra 8:28		Good	Rotation
 Zeal for the Lord (Roots)	Roots	065-Zeal-for-the-Lord.jpg	GE	Clay	0	0		-	Discard up to 2 Evil Characters.	-	Numbers 25:11		Good	Rotation
-Baruch, Son of Zabbai (Roots)	Roots	066-Baruch-Son-of-Zabbai.jpg	Hero	Good Gold	11	10	Warrior	Postexilic	You may draw 1 or play a good O.T. Fortress from Reserve. May band to a postexilic Hero.	-	Nehemiah 3:20		Good	Rotation
-Simon of Cyrene (Roots)	Roots	067-Simon-of-Cyrene.jpg	Hero	Good Gold	8	7		Gospel	You may reserve the top card of a deck or activate a Gospel Artifact from deck. Cannot be interrupted.	-	Mark 15:21		Good	Rotation
-Deborah, the Brave (Roots)	Roots	068-Deborah-the-Brave.jpg	Hero	Good Gold	7	6		Judge, Musician, Prophet	Protect Lost Souls from evil cards. May band to an O.T. gold warrior. Cannot be prevented.	-	Judges 4:4		Good	Rotation
-Jadon, the Meronothite (Roots)	Roots	069-Jadon-the-Meronothite.jpg	Hero	Good Gold	6	8	Warrior	Postexilic	You may play a good O.T. Fortress from deck. If you control 4 or more good Fortresses, discard an evil card.	-	Nehemiah 3:7		Good	Rotation
-Jael, the Shrewd (Roots)	Roots	070-Jael.jpg	Hero	Good Gold	5	5		-	If alone, you may choose an evil O.T. male human to block.	-	Judges 4:21		Good	Rotation
-Joshua’s Scribes (Roots)	Roots	071-Joshuas-Scribes.jpg	Hero	Good Gold	3	7		Generic, Wilderness	You may draw 1. You may look at a hand, a Reserve or the top 7 cards of a deck.	-	Joshua 18:8		Good	Rotation
-Spy (Roots)	Roots	072-Spy.jpg	Hero	Good Gold	3	2	Warrior	Generic, Wilderness	You may look at a hand or a Reserve. You may withdraw this card.	-	Joshua 2:1		Good	Rotation
-The Generous Widow (Roots)	Roots	073-The-Generous-Widow.jpg	Hero	Good Gold	2	2		Gospel	Each player must reserve the top card of deck. If opponent has hand advantage, you may draw 2.	-	Luke 21:2-3		Good	Rotation
-Centurion's Proclamation (Roots)	Roots	074-Centurions-Proclamation.jpg	GE	Good Gold	5	2		Gospel	If used by a N.T. Hero, interrupt the battle. Discard an evil card (except a human) or convert an evil human.	-	Matthew 27:54		Good	Rotation
-Deborah's Directive (Roots)	Roots	075-Deborahs-Directive.jpg	GE	Good Gold	4	3		-	Interrupt the battle. Hero may band to up to 3 O.T. human Heroes. Cannot be negated if used by Deborah.	-	Judges 4:6		Good	Rotation
-Consider the Lilies (Roots)	Roots	076-Consider-the-Lilies.jpg	GE	Good Gold	3	4		Gospel	You may exchange this card with a N.T. gold Enhancement from deck or Reserve.	-	Luke 12:27		Good	Rotation
-Jael's Nail (Roots)	Roots	077-Jaels-Nail.jpg	GE	Good Gold	3	1		-	Negate and discard an Evil Character.	-	Judges 4:21		Good	Rotation
-The Prodigal Returns (Roots)	Roots	078-The-Prodigal-Returns.jpg	GE	Good Gold	2	4		Gospel	Bounce a character. You may add a N.T. Hero to battle.	-	Luke 15:20		Good	Rotation
-Ehud's Dagger (Roots)	Roots	079-Ehuds-Dagger.jpg	GE	Good Gold	2	2	Weapon	-	Negate an evil card. You may discard this card to discard an evil king. Cannot be prevented.	-	Judges 3:16		Good	Rotation
-The Lord Fights for You (Roots)	Roots	080-The-Lord-Fights-for-You.jpg	GE	Good Gold	0	0		-	If used by an O.T. Hero, discard all Evil Characters.	-	Joshua 23:10		Good	Rotation
+Baruch, Son of Zabbai (Roots)	Roots	066-Baruch-Son-of-Zabbai.jpg	Hero	Gold	11	10	Warrior	Postexilic	You may draw 1 or play a good O.T. Fortress from Reserve. May band to a postexilic Hero.	-	Nehemiah 3:20		Good	Rotation
+Simon of Cyrene (Roots)	Roots	067-Simon-of-Cyrene.jpg	Hero	Gold	8	7		Gospel	You may reserve the top card of a deck or activate a Gospel Artifact from deck. Cannot be interrupted.	-	Mark 15:21		Good	Rotation
+Deborah, the Brave (Roots)	Roots	068-Deborah-the-Brave.jpg	Hero	Gold	7	6		Judge, Musician, Prophet	Protect Lost Souls from evil cards. May band to an O.T. gold warrior. Cannot be prevented.	-	Judges 4:4		Good	Rotation
+Jadon, the Meronothite (Roots)	Roots	069-Jadon-the-Meronothite.jpg	Hero	Gold	6	8	Warrior	Postexilic	You may play a good O.T. Fortress from deck. If you control 4 or more good Fortresses, discard an evil card.	-	Nehemiah 3:7		Good	Rotation
+Jael, the Shrewd (Roots)	Roots	070-Jael.jpg	Hero	Gold	5	5		-	If alone, you may choose an evil O.T. male human to block.	-	Judges 4:21		Good	Rotation
+Joshua’s Scribes (Roots)	Roots	071-Joshuas-Scribes.jpg	Hero	Gold	3	7		Generic, Wilderness	You may draw 1. You may look at a hand, a Reserve or the top 7 cards of a deck.	-	Joshua 18:8		Good	Rotation
+Spy (Roots)	Roots	072-Spy.jpg	Hero	Gold	3	2	Warrior	Generic, Wilderness	You may look at a hand or a Reserve. You may withdraw this card.	-	Joshua 2:1		Good	Rotation
+The Generous Widow (Roots)	Roots	073-The-Generous-Widow.jpg	Hero	Gold	2	2		Gospel	Each player must reserve the top card of deck. If opponent has hand advantage, you may draw 2.	-	Luke 21:2-3		Good	Rotation
+Centurion's Proclamation (Roots)	Roots	074-Centurions-Proclamation.jpg	GE	Gold	5	2		Gospel	If used by a N.T. Hero, interrupt the battle. Discard an evil card (except a human) or convert an evil human.	-	Matthew 27:54		Good	Rotation
+Deborah's Directive (Roots)	Roots	075-Deborahs-Directive.jpg	GE	Gold	4	3		-	Interrupt the battle. Hero may band to up to 3 O.T. human Heroes. Cannot be negated if used by Deborah.	-	Judges 4:6		Good	Rotation
+Consider the Lilies (Roots)	Roots	076-Consider-the-Lilies.jpg	GE	Gold	3	4		Gospel	You may exchange this card with a N.T. gold Enhancement from deck or Reserve.	-	Luke 12:27		Good	Rotation
+Jael's Nail (Roots)	Roots	077-Jaels-Nail.jpg	GE	Gold	3	1		-	Negate and discard an Evil Character.	-	Judges 4:21		Good	Rotation
+The Prodigal Returns (Roots)	Roots	078-The-Prodigal-Returns.jpg	GE	Gold	2	4		Gospel	Bounce a character. You may add a N.T. Hero to battle.	-	Luke 15:20		Good	Rotation
+Ehud's Dagger (Roots)	Roots	079-Ehuds-Dagger.jpg	GE	Gold	2	2	Weapon	-	Negate an evil card. You may discard this card to discard an evil king. Cannot be prevented.	-	Judges 3:16		Good	Rotation
+The Lord Fights for You (Roots)	Roots	080-The-Lord-Fights-for-You.jpg	GE	Gold	0	0		-	If used by an O.T. Hero, discard all Evil Characters.	-	Joshua 23:10		Good	Rotation
 Nathan, the Rebuker (Roots)	Roots	081-Nathan.jpg	Hero	Green	11	7		Prophet	You may underdeck an evil card in territory. If you do, opponent must underdeck an evil card in territory.	-	II Samuel 12:7		Good	Rotation
 David (Roots)	Roots	082-David.jpg	Hero	Green	10	3	Warrior	Giant slayer, King of Israel and Judah, Musician, Prophet	May band to an O.T. green prophet, or you may look at the top 7 cards of deck: Take up to 1 good card.	-	I Samuel 17:37		Good	Rotation
 Isaiah, Peace Proclaimer (Roots)	Roots	083-Isaiah.jpg	Hero	Green	7	8		Major Prophet, Musician	You may underdeck a good Isaiah Enhancement from discard pile. Isaiah Enhancements cannot be negated.	-	Isaiah 6:8		Good	Rotation
@@ -5013,3 +5013,5 @@ Two Thousand Horses (Roots)	Roots	221-Two-Thousand-Horses.jpg	EE	Pale Green	2	2	
 Mask of Fear (Roots)	Roots	222-Mask-of-Fear.jpg	EE	Pale Green	1	5		-	Interrupt the battle. You may draw 3 and play an evil Enhancement.	-	I John 4:18		Evil	Rotation
 Confusion (Roots)	Roots	223-Confusion.jpg	EE	Pale Green	0	2		-	Discard a card from opponent’s hand, deck or Reserve.	-	Isaiah 5:20		Evil	Rotation
 Death of Unrighteous (Roots)	Roots	224-Death-of-Unrighteous.jpg	EE	Pale Green	0	0		-	Discard all evil cards in battle to shuffle all cards in Land of Bondage.	-	Genesis 7:23		Evil	Rotation
+Raiders' Camp [2023 - Seasonal] (Roots)	Promo	Raiders-Camp-promo.jpg	Evil Character/Fortress	Brown	7	5	Warrior	[Fortress holds any # of captured human Heroes]	F: If attacked, you may release contents to shuffle a Lost Soul. / EC: Capture a human in a territory, discard a Fortress or take an Artifact.	Seasonal	I Samuel 30:16		Evil	Rotation
+Tribute [2023 - Seasonal] (Roots)	Promo	Tribute-promo.jpg	Artifact	-	-	-		-	You may discard this card to give a card in territory to opponent's territory. Protect that card from harm this turn.	Seasonal	II Kings 17:3		Neutral	Rotation

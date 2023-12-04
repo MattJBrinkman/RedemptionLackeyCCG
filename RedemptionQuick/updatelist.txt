@@ -46,7 +46,7 @@ plugins/Redemption/packs/Unlimited.jpg	http://www.redemptionquick.com/lackey/pac
 plugins/Redemption/packs/Warriors.jpg	http://www.redemptionquick.com/lackey/packs/Warriors.jpg	-8142
 plugins/Redemption/packs/Women.jpg	http://www.redemptionquick.com/lackey/packs/Women.jpg	1031
 plugins/Redemption/packs/packdefinitions.xml	http://www.redemptionquick.com/lackey/packs/packdefinitions.xml	5141013
-plugins/Redemption/sets/carddata.txt	http://www.redemptionquick.com/lackey/sets/carddata.txt	88870297
+plugins/Redemption/sets/carddata.txt	http://www.redemptionquick.com/lackey/sets/carddata.txt	92700501
 plugins/Redemption/sounds/anb.wav	http://www.redemptionquick.com/lackey/sounds/anb.wav	-414625
 plugins/Redemption/sounds/wtf.wav	http://www.redemptionquick.com/lackey/sounds/wtf.wav	-47134
 CardGeneralURLs:

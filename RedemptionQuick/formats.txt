@@ -1,0 +1,69 @@
+<formatdefinitions>
+
+<format><label>Rotation</label>
+	<set>Pmo-P2</set>
+	<set>Pmo-P3</set>
+	<set>I</set>
+	<set>J</set>
+	<set>RoA 3</set>
+	<set>TEC</set>
+	<set>TPC</set>
+	<set>CoW</set>
+	<set>CoW (AB)</set>
+	<set>RoJ</set>
+	<set>RoJ (AB)</set>
+	<set>FoM</set>
+	<set>PoC</set>
+	<set>LoC</set>
+	<set>GoC</set>
+	<set>I/J+</set>
+	<set>K1P</set>
+	<set>L1P</set>
+	<set>K</set>
+	<set>L</set>
+	<set>Fund</set>
+	<set>IR</set>
+	<set>RR</set>	
+</format>
+
+<format><label>Christ Block</label>
+	<set>FoM</set>
+	<set>PoC</set>
+	<set>LoC</set>
+	<set>GoC</set>
+</format>
+
+<format><label>Scroots</label>
+	<set>Pmo-P1</set>
+	<set>Main</set>
+	<set>Main Unlimited</set>
+	<set>1E</set>
+	<set>1EU</set>
+	<set>Prp</set>
+	<set>Wom</set>
+	<set>War</set>
+	<set>2E</set>
+	<set>2ER</set>
+	<set>Ap</set>
+	<set>Pat</set>
+	<set>Ki</set>
+	<set>3E</set>
+	<set>AW</set>
+	<set>10A</set>
+	<set>Pri</set>
+	<set>FoOF</set>
+	<set>RoA</set>
+	<set>TxP</set>
+	<set>Di</set>
+	<set>RR</set>	
+</format>
+
+<format><label>LoC Only</label>
+	<set>LoC</set>
+</format>
+
+<format><label>GoC Only</label>
+	<set>GoC</set>
+</format>
+
+</formatdefinitions>

@@ -4107,7 +4107,7 @@ Son of God (I)	I	Son_of_God_(I)	I	Dominant						Negate and Rescue a Lost Soul.	D
 Son of God (J)	J	Son_of_God_(J)	J	Dominant						Negate and Rescue a Lost Soul.	Deck	Revelation 19:11		Good	Rotation
 Son of God (Promo 2018)	Pmo-P2	Son-of-God-2018	Promo	Dominant						Negate and rescue a Lost Soul.	Promo	Revelation 1:12-13		Good	Rotation
 Son of God [2023 - 1st Place]	Pmo-P3	Son-of-God-Textless-Nats-1st	Promo	Dominant						Negate and rescue a Lost Soul.	National	Revelation 1:17-18		Good	Rotation
-Son of God [Fundraiser - Greek]	Fund	Son-of-God-L-Greek.jpg	Fundraiser	Dominant				Gospel		Negate and rescue a Lost Soul.	Promo	Luke 9:23		Good	Rotation
+Son of God [Fundraiser - Greek]	Fund	Son-of-God-L-Greek.jpg	Fundraiser	Dominant					Gospel	Negate and rescue a Lost Soul.	Promo	Luke 9:23		Good	Rotation
 Son of God [Fundraiser - Hebrew]	Fund	Son-of-God-K-Hebrew.jpg	Fundraiser	Dominant						Negate and rescue a Lost Soul.	Promo	Daniel 7:13		Good	Rotation
 Son of God [Fundraiser]	Fund	FR-Son-of-God-Baptism-of-Jesus	Fundraiser	Dominant					Gospel	Negate and rescue a Lost Soul.	Promo	Matthew 28:5-6		Good	Rotation
 Son of God [K]	K	K1-Son-of-God	K Starter	Dominant						Negate and rescue a Lost Soul.	Starter	Daniel 7:13		Good	Rotation

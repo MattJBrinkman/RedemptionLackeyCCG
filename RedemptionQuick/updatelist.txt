@@ -27,7 +27,7 @@ plugins/Redemption/packs/faith_fathers_tin.jpg	http://www.redemptionquick.com/la
 plugins/Redemption/packs/FallOfMan.jpg	http://www.redemptionquick.com/lackey/packs/FallOfMan.jpg	-6871
 plugins/Redemption/packs/GoC.jpg	http://www.redemptionquick.com/lackey/packs/GoC.jpg	-10625
 plugins/Redemption/packs/IR.jpg	http://www.redemptionquick.com/lackey/packs/IR.jpg	-3470
-plugins/Redemption/packs/K_L_Starter_Deck.jpg	http://www.redemptionquick.com/lackey/packs/K_L_Starter_Deck.jpg	14329
+plugins/Redemption/packs/K_L_Starter_Deck.jpg	http://www.redemptionquick.com/lackey/packs/K_L_Starter_Deck.jpg	561
 plugins/Redemption/packs/Kings.jpg	http://www.redemptionquick.com/lackey/packs/Kings.jpg	9633
 plugins/Redemption/packs/lineage_of_christ.jpg	http://www.redemptionquick.com/lackey/packs/lineage_of_christ.jpg	-373696
 plugins/Redemption/packs/lineage_of_christ_super.jpg	http://www.redemptionquick.com/lackey/packs/lineage_of_christ_super.jpg	-199457
@@ -45,8 +45,8 @@ plugins/Redemption/packs/TPC.jpg	http://www.redemptionquick.com/lackey/packs/TPC
 plugins/Redemption/packs/Unlimited.jpg	http://www.redemptionquick.com/lackey/packs/Unlimited.jpg	4514
 plugins/Redemption/packs/Warriors.jpg	http://www.redemptionquick.com/lackey/packs/Warriors.jpg	-8142
 plugins/Redemption/packs/Women.jpg	http://www.redemptionquick.com/lackey/packs/Women.jpg	1031
-plugins/Redemption/packs/packdefinitions.xml	http://www.redemptionquick.com/lackey/packs/packdefinitions.xml	5141013
-plugins/Redemption/sets/carddata.txt	http://www.redemptionquick.com/lackey/sets/carddata.txt	92705275
+plugins/Redemption/packs/packdefinitions.xml	http://www.redemptionquick.com/lackey/packs/packdefinitions.xml	6976080
+plugins/Redemption/sets/carddata.txt	http://www.redemptionquick.com/lackey/sets/carddata.txt	94445637
 plugins/Redemption/sounds/anb.wav	http://www.redemptionquick.com/lackey/sounds/anb.wav	-414625
 plugins/Redemption/sounds/wtf.wav	http://www.redemptionquick.com/lackey/sounds/wtf.wav	-47134
 CardGeneralURLs:

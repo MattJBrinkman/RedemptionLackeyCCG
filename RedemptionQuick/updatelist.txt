@@ -2,6 +2,7 @@ Redemption	05-28-16
 plugins/Redemption/bot.jpg	http://www.redemptionquick.com/lackey/bot.jpg	-8286
 plugins/Redemption/cardback.jpg	http://www.redemptionquick.com/lackey/cardback.jpg	-46944
 plugins/Redemption/plugininfo.txt	http://www.redemptionquick.com/lackey/plugininfo.txt	384712
+plugins/Redemption/formats.txt   http://www.redemptionquick.com/lackey/formats.txt  0
 plugins/Redemption/setlist.txt	http://www.redemptionquick.com/lackey/setlist.txt	36302
 plugins/Redemption/decks/C_Deck_1st_print.dek	http://www.redemptionquick.com/lackey/decks/C_Deck_1st_print.dek	391925
 plugins/Redemption/decks/C_Deck_2nd_print.dek	http://www.redemptionquick.com/lackey/decks/C_Deck_2nd_print.dek	391235

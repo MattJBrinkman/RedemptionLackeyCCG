@@ -2145,4 +2145,39 @@
     <kind><qty>5</qty><crit><field>OfficialSet</field><eval>IS</eval><data>Roots</data></crit></kind>
   </chance>
 </pack>
+
+<pack>
+  <packtitle>II w/ Roots</packtitle>
+  <packimage>Israels_Inheritance</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <chance>
+    <prob>10</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>OfficialSet</field><eval>IS</eval><data>Israel's Inheritance</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+      <crit><field>OfficialSet</field><eval>IS</eval><data>Israel's Inheritance</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>5</qty><crit><field>OfficialSet</field><eval>IS</eval><data>Roots</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>90</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>OfficialSet</field><eval>IS</eval><data>Israel's Inheritance</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+      <crit><field>OfficialSet</field><eval>IS</eval><data>Israel's Inheritance</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>5</qty><crit><field>OfficialSet</field><eval>IS</eval><data>Roots</data></crit></kind>
+  </chance>
+</pack>
 </packdefinitions>

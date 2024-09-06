@@ -2824,7 +2824,7 @@ Lost Soul Psalm 68:6 (E)	3E	Lost_Soul_Psalm_68_6_(E)	3rd Edition	Lost Soul						
 Lost Soul Psalm 68:6 (I)	I	Lost_Soul_Psalm_68_6_(I)	I	Lost Soul							Deck	Psalm 68:6		Neutral	Rotation
 Lost Soul Romans 3:23 (Revealer)	AW	Lost_Soul_Romans_3_23_(Revealer)_(AW)	Angel Wars	Lost Soul						When you draw this card, each opponent must reveal the top two cards of his draw pile.  Place each revealed Lost Soul in owner's Land of Bondage.  Place the rest beneath owner's draw pile.	Rare	Romans 3:23		Neutral	
 Lost Soul Token "Harvest" [John 4:35]	GoC	Lost-Soul-Harvest-Token	Gospel of Christ Token	Lost Soul Token					["Harvest"]		Token	John 4:35		Neutral	Rotation
-Lost Soul Token "Lost Souls" [Proverbs 2:16-17]	RR	Lost-Soul-Token-Lost-Souls.jpg	Roots	Lost Soul					["Lost Souls"]		Token	Proverbs 2:16-17		Neutral	Rotation
+Lost Soul Token "Lost Souls" [Proverbs 2:16-17]	RR	Lost-Soul-Token-Lost-Souls.jpg	Roots	Lost Soul Token					["Lost Souls"]		Token	Proverbs 2:16-17		Neutral	Rotation
 Lost Soul Token NT (Majestic Heavens)	Pmo-P2	Lost-Soul-Token-Majestic-Heavens-NT	Promo Token	Lost Soul Token							Token	New Testament		Neutral	Rotation
 Lost Soul Token OT (Majestic Heavens)	Pmo-P2	Lost-Soul-Token-Majestic-Heavens-OT	Promo Token	Lost Soul Token							Token	Old Testament		Neutral	Rotation
 Lost Souls (Three Liner)	Main UL [Ban]	Lost_Souls_(Three_Liner)_(UL)	Main Unlimited	Lost Soul						This card counts as two Lost Souls.  It must be rescued twice by the same player to count.	Rare	Proverbs 22:14		Neutral	Banned
@@ -5158,3 +5158,9 @@ Struggle Against Saul	II	126_Struggle-Against-Saul	Israel's Inheritance	EE	Gray	
 Refusal of Entry	II	127_Refusal-of-Entry	Israel's Inheritance	EE	Gray	1	5			Opponent must underdeck a good card from hand. Moabite may band to up to 3 Evil Characters.	Common	Judges 11:17		Evil	Rotation
 Not Your Possession	II	128_Not-Your-Possession-R	Israel's Inheritance	EE	Gray	0	6			Negate a good Enhancement. If used by a Moabite, place in territory for 2 turns: Restrict opponents from attacking.	Rare	Deuteronomy 2:9		Evil	Rotation
 Great Dread	II	129_Great-Dread	Israel's Inheritance	EE	Gray	0	3			Negate a good card. If used by a Moabite, protect O.T. Lost Souls from rescue.	Common	Numbers 22:3		Evil	Rotation
+Guardian of Your Souls [2024 - 1st Place]	Pmo-P3	Guardian-of-Your-Souls-1st	Promo	Dominant						Place in territory: Protect Lost Souls from evil cards and Heroes from convert abilities. If an ability targets this card, you may topdeck it instead.	National	I Peter 2:25		Good	Rotation
+The Gates of Hell [2024 - 2nd Place]	Pmo-P3	The-Gates-of-Hell-2nd	Promo	Fortress						At any time, you may discard the bottom card of deck. If it is a demon, play it instead. During battle, you may discard this card to add your demon to battle.	National	Matthew 16:18		Evil	Rotation
+Lost Soul "Prosperity" [Deuteronomy 30:15] [2024 - 3rd Place]	Pmo-P3	Lost-Soul-Prosperity-3rd	Promo	Lost Soul					["Prosperity"]	If drawn, you may discard a card from hand to draw 2.	National	Deuteronomy 30:15		Neutral	Rotation
+Two Bears [2024 - Worker]	Pmo-P3	Two-Bears-Worker	Promo	GE	Green	4	2			If used by a prophet, interrupt the battle and shuffle a card of each evil brigade in play.	National	II Kings 2:24		Good	Rotation
+Lost Soul Token OT [2024 - Nationals]	Pmo-P3	LostSoulsToken 	Promo	Lost Soul Token					Token, O.T.		Token			Neutral	Rotation
+Queen Tahpenes [2024 - Seasonal]	Pmo-P3	Queen-Tahpenes	Promo	Evil Character	Pale Green	2	5		[X = # of brigades revealed] Egyptian, Royalty	Negate a card or draw 1. If blocking, reveal an opponent's hand or discard pile: You may discard the top X cards of their deck. Cannot be negated.	Seasonal	I Kings 11:19		Evil	Rotation

@@ -23,6 +23,7 @@
 	<set>L</set>
 	<set>Fund</set>
 	<set>IR</set>
+	<set>II</set>
 	<set>RR</set>	
 </format>
 
@@ -64,6 +65,15 @@
 
 <format><label>GoC Only</label>
 	<set>GoC</set>
+</format>
+
+<format><label>Isreal Block</label>
+	<set>IR</set>
+	<set>II</set>
+	<set>K1P</set>
+	<set>L1P</set>
+	<set>K</set>
+	<set>L</set>
 </format>
 
 </formatdefinitions>

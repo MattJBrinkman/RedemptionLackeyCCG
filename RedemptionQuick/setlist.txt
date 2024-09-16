@@ -4,7 +4,7 @@ carddata.txt
 1
 Standard
 
-31
+33
 10th Anniversary
 1st Edition
 1st Edition Unlimited
@@ -19,6 +19,8 @@ Early Church
 Faith of Our Fathers
 Fall of Man
 I
+Israel's Inheritance
+Israel's Rebellion
 J
 K Starter
 Kings

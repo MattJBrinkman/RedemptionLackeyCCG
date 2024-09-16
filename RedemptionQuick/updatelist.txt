@@ -2,8 +2,8 @@ Redemption	05-28-16
 plugins/Redemption/bot.jpg	http://www.redemptionquick.com/lackey/bot.jpg	-8286
 plugins/Redemption/cardback.jpg	http://www.redemptionquick.com/lackey/cardback.jpg	-46944
 plugins/Redemption/plugininfo.txt	http://www.redemptionquick.com/lackey/plugininfo.txt	384712
-plugins/Redemption/formats.txt	http://www.redemptionquick.com/lackey/formats.txt	85657
-plugins/Redemption/setlist.txt	http://www.redemptionquick.com/lackey/setlist.txt	36302
+plugins/Redemption/formats.txt	http://www.redemptionquick.com/lackey/formats.txt	97447
+plugins/Redemption/setlist.txt	http://www.redemptionquick.com/lackey/setlist.txt	39946
 plugins/Redemption/decks/C_Deck_1st_print.dek	http://www.redemptionquick.com/lackey/decks/C_Deck_1st_print.dek	391925
 plugins/Redemption/decks/C_Deck_2nd_print.dek	http://www.redemptionquick.com/lackey/decks/C_Deck_2nd_print.dek	391235
 plugins/Redemption/decks/D_Deck_1st_print.dek	http://www.redemptionquick.com/lackey/decks/D_Deck_1st_print.dek	379315
@@ -16,8 +16,8 @@ plugins/Redemption/decks/Starter_E.dek	http://www.redemptionquick.com/lackey/dec
 plugins/Redemption/decks/Starter_F.dek	http://www.redemptionquick.com/lackey/decks/Starter_F.dek	381508
 plugins/Redemption/decks/Starter_G.dek	http://www.redemptionquick.com/lackey/decks/Starter_G.dek	427236
 plugins/Redemption/decks/Starter_H.dek	http://www.redemptionquick.com/lackey/decks/Starter_H.dek	440170
-plugins/Redemption/decks/Starter_I.dek	http://www.redemptionquick.com/lackey/decks/Starter_I.dek	349232
-plugins/Redemption/decks/Starter_J.dek	http://www.redemptionquick.com/lackey/decks/Starter_J.dek	359784
+plugins/Redemption/decks/Starter_I.dek	http://www.redemptionquick.com/lackey/decks/Starter_I.dek	360392
+plugins/Redemption/decks/Starter_J.dek	http://www.redemptionquick.com/lackey/decks/Starter_J.dek	370381
 plugins/Redemption/decks/Starter_K.dek	http://www.redemptionquick.com/lackey/decks/Starter_K.dek	430514
 plugins/Redemption/decks/Starter_L.dek	http://www.redemptionquick.com/lackey/decks/Starter_L.dek	444706
 plugins/Redemption/packs/AngelWars.jpg	http://www.redemptionquick.com/lackey/packs/AngelWars.jpg	-4725
@@ -46,8 +46,8 @@ plugins/Redemption/packs/TPC.jpg	http://www.redemptionquick.com/lackey/packs/TPC
 plugins/Redemption/packs/Unlimited.jpg	http://www.redemptionquick.com/lackey/packs/Unlimited.jpg	4514
 plugins/Redemption/packs/Warriors.jpg	http://www.redemptionquick.com/lackey/packs/Warriors.jpg	-8142
 plugins/Redemption/packs/Women.jpg	http://www.redemptionquick.com/lackey/packs/Women.jpg	1031
-plugins/Redemption/packs/packdefinitions.xml	http://www.redemptionquick.com/lackey/packs/packdefinitions.xml	6976080
-plugins/Redemption/sets/carddata.txt	http://www.redemptionquick.com/lackey/sets/carddata.txt	94504748
+plugins/Redemption/packs/packdefinitions.xml	http://www.redemptionquick.com/lackey/packs/packdefinitions.xml	7082661
+plugins/Redemption/sets/carddata.txt	http://www.redemptionquick.com/lackey/sets/carddata.txt	97343953
 plugins/Redemption/sounds/anb.wav	http://www.redemptionquick.com/lackey/sounds/anb.wav	-414625
 plugins/Redemption/sounds/wtf.wav	http://www.redemptionquick.com/lackey/sounds/wtf.wav	-47134
 CardGeneralURLs:

@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>250629</lastupdateYYMMDD>
+<lastupdateYYMMDD>250630</lastupdateYYMMDD>
 <versionurl>https://jalstad.github.io/RedemptionLackeyCCG/RedemptionQuick/version.txt</versionurl>
 <updateurl>https://jalstad.github.io/RedemptionLackeyCCG/RedemptionQuick/updatelist.txt</updateurl>
-<message>Redemption Plugin Version 2.0.1: Switched updateurl, added automatic version updates.</message>
+<message>Redemption Plugin Version 2.0.1: Added automatic version updates and Benaiah Promo</message>
 
 </version>

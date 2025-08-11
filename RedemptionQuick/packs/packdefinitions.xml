@@ -1908,7 +1908,7 @@
   <packformat>Standard</packformat>
   <packkind>Booster</packkind>
   <chance>
-    <prob>8</prob>
+    <prob>10</prob>
     <kind>
       <qty>1</qty>
       <crit><field>OfficialSet</field><eval>IS</eval><data>Prophecies of Christ</data></crit>
@@ -1922,42 +1922,12 @@
     <kind><qty>5</qty><crit><field>OfficialSet</field><eval>IS</eval><data>Roots</data></crit></kind>
   </chance>
   <chance>
-    <prob>84</prob>
+    <prob>90</prob>
     <kind>
       <qty>1</qty>
       <crit><field>OfficialSet</field><eval>IS</eval><data>Prophecies of Christ</data></crit>
       <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
     </kind>
-    <kind>
-      <qty>4</qty>
-      <crit><field>OfficialSet</field><eval>IS</eval><data>Prophecies of Christ</data></crit>
-      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
-    </kind>
-    <kind><qty>5</qty><crit><field>OfficialSet</field><eval>IS</eval><data>Roots</data></crit></kind>
-  </chance>
-  <chance>
-    <prob>2</prob>
-    <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Three Woes (RoJ AB)</data></crit></kind>
-    <kind>
-      <qty>4</qty>
-      <crit><field>OfficialSet</field><eval>IS</eval><data>Prophecies of Christ</data></crit>
-      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
-    </kind>
-    <kind><qty>5</qty><crit><field>OfficialSet</field><eval>IS</eval><data>Roots</data></crit></kind>
-  </chance>
-  <chance>
-    <prob>3</prob>
-    <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>The Second Coming (CoW AB)</data></crit></kind>
-    <kind>
-      <qty>4</qty>
-      <crit><field>OfficialSet</field><eval>IS</eval><data>Prophecies of Christ</data></crit>
-      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
-    </kind>
-    <kind><qty>5</qty><crit><field>OfficialSet</field><eval>IS</eval><data>Roots</data></crit></kind>
-  </chance>
-  <chance>
-    <prob>3</prob>
-    <kind><qty>1</qty><crit><field>Name</field><eval>IS</eval><data>Shipwreck (Promo)</data></crit></kind>
     <kind>
       <qty>4</qty>
       <crit><field>OfficialSet</field><eval>IS</eval><data>Prophecies of Christ</data></crit>
@@ -2175,6 +2145,42 @@
     <kind>
       <qty>3</qty>
       <crit><field>OfficialSet</field><eval>IS</eval><data>Israel's Inheritance</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>5</qty><crit><field>OfficialSet</field><eval>IS</eval><data>Roots</data></crit></kind>
+  </chance>
+</pack>
+</packdefinitions>
+
+<pack>
+  <packtitle>T2C w/ Roots</packtitle>
+  <packimage>Times_to_Come</packimage>
+  <packformat>Standard</packformat>
+  <packkind>Booster</packkind>
+  <chance>
+    <prob>10</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>OfficialSet</field><eval>IS</eval><data>Times to Come</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Ultra Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+      <crit><field>OfficialSet</field><eval>IS</eval><data>Times to Come</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
+    </kind>
+    <kind><qty>5</qty><crit><field>OfficialSet</field><eval>IS</eval><data>Roots</data></crit></kind>
+  </chance>
+  <chance>
+    <prob>90</prob>
+    <kind>
+      <qty>1</qty>
+      <crit><field>OfficialSet</field><eval>IS</eval><data>Times to Come</data></crit>
+      <crit><field>Rarity</field><eval>IS</eval><data>Rare</data></crit>
+    </kind>
+    <kind>
+      <qty>3</qty>
+      <crit><field>OfficialSet</field><eval>IS</eval><data>Times to Come</data></crit>
       <crit><field>Rarity</field><eval>IS</eval><data>Common</data></crit>
     </kind>
     <kind><qty>5</qty><crit><field>OfficialSet</field><eval>IS</eval><data>Roots</data></crit></kind>

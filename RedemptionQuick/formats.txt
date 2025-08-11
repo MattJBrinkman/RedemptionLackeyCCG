@@ -24,7 +24,8 @@
 	<set>Fund</set>
 	<set>IR</set>
 	<set>II</set>
-	<set>RR</set>	
+	<set>RR</set>
+	<set>T2C</set>
 </format>
 
 <format><label>Christ Block</label>
